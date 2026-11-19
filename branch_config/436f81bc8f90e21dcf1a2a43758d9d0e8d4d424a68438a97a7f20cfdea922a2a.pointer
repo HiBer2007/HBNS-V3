@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "kaleidoscopecookery_automation-1.0.2.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "7KEJ7Rz9",
+        "version_id": "IqWk9J0n"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "436f81bc8f90e21dcf1a2a43758d9d0e8d4d424a68438a97a7f20cfdea922a2a"
+}

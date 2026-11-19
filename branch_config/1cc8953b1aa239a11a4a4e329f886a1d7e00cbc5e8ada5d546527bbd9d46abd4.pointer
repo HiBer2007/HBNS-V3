@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "VS-Sable-HoseConnectors-0.1.6-1.21.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "YaZEkFmd",
+        "version_id": "AJSmuGAV"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "1cc8953b1aa239a11a4a4e329f886a1d7e00cbc5e8ada5d546527bbd9d46abd4"
+}

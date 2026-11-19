@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "extra_copycats-1.0.2.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "KEG1fY2H",
+        "version_id": "xDN9lyTb"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "afb39b4fe940275015e4809b5c69704346883f72139924da8f347ebf7032ab19"
+}

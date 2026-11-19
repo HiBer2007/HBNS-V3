@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "solmaiddream-1.0.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "dgkLv3Nj",
+        "version_id": "J2DNeh9d"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "35751f884d89452a1ff430f9904b927f6424d43b4eaecaa4a493c5ea2378b903"
+}

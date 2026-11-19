@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "movabletracks-1.0.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "xX4m1GME",
+        "version_id": "JIha8XmV"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "fe0976463d5f4e45a8e6f49a064cda1f72ab4a814ecb805603e421e05b458284"
+}

@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "create_copper_and_zinc-2.0.0-neoforge-1.21.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "aqYNR6rI",
+        "version_id": "1Z1LCW5Z"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "1882e3102771ed2db4ba7f62c0b500d7a40e4d2c1823700c2fa55a75b77359f9"
+}

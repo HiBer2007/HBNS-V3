@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "createmetallurgy-1.0.3-1.21.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "Soft45xC",
+        "version_id": "4RhIMmaJ"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "8f1c30c9f800c367a40715e8e6662f736f4547737987dfc30c10172b89b5d93f"
+}

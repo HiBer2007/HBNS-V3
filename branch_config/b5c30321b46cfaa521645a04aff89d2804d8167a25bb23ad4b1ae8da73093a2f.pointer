@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "1eAoo2KR",
+        "version_id": "7TVdVtxF"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "b5c30321b46cfaa521645a04aff89d2804d8167a25bb23ad4b1ae8da73093a2f"
+}

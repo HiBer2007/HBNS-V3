@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "kubejs-neoforge-2101.7.2-build.368.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "umyGl7zF",
+        "version_id": "F2nzeC19"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "01767bb677a9c4a8f318717c4c21bca7e7ef80995603403a551068a0e064e740"
+}

@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "uEfK2CXF",
+        "version_id": "TgNFki8j"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "7a47d69b5530704690d5a5f0726cd74a2d6c57df17dd4a8589c4ab5212f91460"
+}

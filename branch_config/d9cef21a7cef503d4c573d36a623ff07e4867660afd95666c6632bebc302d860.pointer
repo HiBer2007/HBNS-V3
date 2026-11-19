@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "schematicanon_processing_pattern-1.0-neoforge-1.21.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "WwlA6BGw",
+        "version_id": "wuJIYp18"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "d9cef21a7cef503d4c573d36a623ff07e4867660afd95666c6632bebc302d860"
+}

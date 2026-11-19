@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "lithostitched-1.7.7-neoforge-21.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "XaDC71GB",
+        "version_id": "Nf30FMLg"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "b6f201cfeaf72db13d661136fdb92f2d268e75f9e7b37403451bdb1a828c9b04"
+}

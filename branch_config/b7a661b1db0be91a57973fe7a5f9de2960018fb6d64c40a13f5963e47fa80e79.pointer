@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "waystonessable-1.0.2.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "BxhPGfcK",
+        "version_id": "jWfLRjhU"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "b7a661b1db0be91a57973fe7a5f9de2960018fb6d64c40a13f5963e47fa80e79"
+}

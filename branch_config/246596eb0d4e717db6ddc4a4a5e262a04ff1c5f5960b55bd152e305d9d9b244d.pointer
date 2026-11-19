@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "argentinasdelightreborn-0.0.11-neoforge-1.21.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "ICfxIYjs",
+        "version_id": "OYMIW7QC"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "246596eb0d4e717db6ddc4a4a5e262a04ff1c5f5960b55bd152e305d9d9b244d"
+}

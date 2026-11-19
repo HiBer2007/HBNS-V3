@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "createbigcannons-5.11.3+mc.1.21.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "GWp4jCJj",
+        "version_id": "bsGaXKEd"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "16cb451c1673198131148cec8196bb6325b3eb85168172bd629c0b93261381df"
+}

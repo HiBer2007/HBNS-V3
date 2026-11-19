@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "Terralith_1.21.x_v2.5.8.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "8oi3bsk5",
+        "version_id": "MuJMtPGQ"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "00333a130ac38b7b9ca93700098d5e02e0612bdc2d3522aada2f36e5600621bf"
+}

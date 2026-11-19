@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "CodeChickenLib-1.21.1-4.6.1.526.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "2gq0ALnz",
+        "version_id": "gQ1srSKh"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "e35cb0ca3e3aeb87e1e171242454426d22edf517b06dc38e5c3d5b6d44d6bc04"
+}

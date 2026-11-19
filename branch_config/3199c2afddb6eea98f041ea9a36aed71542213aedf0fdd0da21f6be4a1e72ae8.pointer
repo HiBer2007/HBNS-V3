@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "aerocopycats-1.1.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "wjpmYU1u",
+        "version_id": "wsXjRa7l"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "3199c2afddb6eea98f041ea9a36aed71542213aedf0fdd0da21f6be4a1e72ae8"
+}

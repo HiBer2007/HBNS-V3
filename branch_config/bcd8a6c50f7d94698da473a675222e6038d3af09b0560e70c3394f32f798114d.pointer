@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "Design-n-Decor-1.21.1-2.1.0.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "x49wilh8",
+        "version_id": "m6PCLHcp"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "bcd8a6c50f7d94698da473a675222e6038d3af09b0560e70c3394f32f798114d"
+}

@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "ends_delight-2.5.1+neoforge.1.21.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "yHN0njMr",
+        "version_id": "YxSK1qNm"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "58dbac7560ead20b5c252d03fc5fa1941ab429b277a6eb86ed576fb60c7cc41d"
+}

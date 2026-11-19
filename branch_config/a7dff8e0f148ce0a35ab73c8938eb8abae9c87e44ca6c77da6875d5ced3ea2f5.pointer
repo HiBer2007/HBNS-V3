@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "expandingtechnologies-1.21.1-1.3.4.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "BU2uaPfJ",
+        "version_id": "zpEKhqzP"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "a7dff8e0f148ce0a35ab73c8938eb8abae9c87e44ca6c77da6875d5ced3ea2f5"
+}

@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "EggDelight-v1.2-1.21.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "gNPz4Cy4",
+        "version_id": "OTVXXEah"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "ec116c6c6d779af199080db97fcd481ddbf0fe7c5e6312b689611b345798e465"
+}

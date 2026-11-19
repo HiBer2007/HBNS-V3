@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "sim_copycats-1.1.5.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "NYBH9vVY",
+        "version_id": "xgzZOELL"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "3dbbb43adb87df7a575edf6c28dbe81c4b82886493754fd78b3ac49a529c25d8"
+}

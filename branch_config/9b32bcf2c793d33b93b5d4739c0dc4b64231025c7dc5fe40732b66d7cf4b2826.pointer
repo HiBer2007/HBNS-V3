@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "coroutil-neoforge-1.21.0-1.3.8.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "rLLJ1OZM",
+        "version_id": "H2YXCYUY"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "9b32bcf2c793d33b93b5d4739c0dc4b64231025c7dc5fe40732b66d7cf4b2826"
+}

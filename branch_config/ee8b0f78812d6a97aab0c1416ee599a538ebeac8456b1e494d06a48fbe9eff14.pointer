@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "createcafe-1.4.3.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "O3hKBfwC",
+        "version_id": "5CZzXBed"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "ee8b0f78812d6a97aab0c1416ee599a538ebeac8456b1e494d06a48fbe9eff14"
+}

@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "constructionwand-kots-1.21.1-2.16.3.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "76H3XX6b",
+        "version_id": "2aKgZvr6"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "e52f9e094be460619e410e583b5d86b58e6a49d8a4bbd1b30f995013d93e0a2d"
+}

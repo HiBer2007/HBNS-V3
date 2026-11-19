@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "create_fantasizing-1.21.1-1.1.3.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "UvrmqS41",
+        "version_id": "A3T1uMzC"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "affe61125af5eba85ad83c00038a5e3ef3c6788bf831be93ceb503096dee51ab"
+}

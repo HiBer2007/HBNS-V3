@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "sable-neoforge-1.21.1-1.2.2.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "T9PomCSv",
+        "version_id": "3FMsUjO4"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "15fb660a0d368204b37f3967bfcc48137397b7174ca2945c5635cc4539c755f8"
+}

@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "create-confectionery1.21.1_v1.1.2.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "WPE5gRs9",
+        "version_id": "m9KI739R"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "abf25a26f4e814bc208e60ddbe53a52bbd7638fb689184dd220b2146190b43b3"
+}

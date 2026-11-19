@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "balm-neoforge-1.21.1-21.0.58.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "MBAkmtvl",
+        "version_id": "3XiinKbh"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "aa2463747bad4c2351869226ea7bce7839510dfd2ac387f8d1588b1ce9309c67"
+}

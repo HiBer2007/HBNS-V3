@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "create-aeronautics-rechiseled-compat-1.21.1-1.2.2.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "ub0jAGhg",
+        "version_id": "b6O6XLL6"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "b08d8dbcdb7269579568c44fd23073cf9cb305b73d4ffdfe2032b4c028a9c96b"
+}

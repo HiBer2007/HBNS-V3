@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "Zeta-1.1-40.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "MVARlG2f",
+        "version_id": "9GjNW2Gf"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "4f17d1a2b9fd6d18ddb7697aa451db7fb154053b8648f79de279ae0d7e68a2fa"
+}

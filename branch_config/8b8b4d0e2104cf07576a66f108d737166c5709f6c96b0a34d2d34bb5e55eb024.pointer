@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "CreateCyberGoggles-1.21.1-7.6.4-NeoForge.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "TlQAWQCY",
+        "version_id": "k6gMjsSh"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "8b8b4d0e2104cf07576a66f108d737166c5709f6c96b0a34d2d34bb5e55eb024"
+}

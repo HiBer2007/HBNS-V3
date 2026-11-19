@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "LibX-1.21.1-6.0.13.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "qEH6GYul",
+        "version_id": "YnbUigkd"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "31f0ecb1c890849bc2e4c430e03cc28cdf696326501d5b83e2e3458add916dd8"
+}

@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "SeedDelight-NeoForge-1.21-1.0.1 (1).jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "70AHjgqV",
+        "version_id": "uzv8gBFo"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "3a830d9f9c586fde5688078f739354ff04f19cf8caf4c07eeb1e774b3d66473c"
+}

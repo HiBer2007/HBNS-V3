@@ -1,0 +1,10 @@
+{
+  "interaction": {
+    "whitelistEnabled": false,
+    "maxBuildDistance": 512
+  },
+  "tool": {
+    "blockDamageMultiplier": 1.0,
+    "shapesRefreshDelayMs": 100
+  }
+}

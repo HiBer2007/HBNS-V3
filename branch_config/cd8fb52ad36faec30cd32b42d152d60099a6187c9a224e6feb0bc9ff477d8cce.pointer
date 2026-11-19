@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "xaeroregions-1.0.4.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "1PguXp5G",
+        "version_id": "t0RS4sP8"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "cd8fb52ad36faec30cd32b42d152d60099a6187c9a224e6feb0bc9ff477d8cce"
+}

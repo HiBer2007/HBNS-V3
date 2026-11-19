@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "TotemFactory-1.1.1+mc1.21.1-NeoForge.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "ae2lDuIP",
+        "version_id": "jyvlokKK"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "f1669184eb6fbba2a7684197836806bd9a2d18c1c1424a8d140455ac4e53c77c"
+}

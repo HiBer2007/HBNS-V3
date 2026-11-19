@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "kaleidoscope_nether-1.1.1-neoforge+mc1.21.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "O4YuhMsI",
+        "version_id": "wTsbWt17"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "b56c9df26d480559b5662b1ec4c04a98d461d8b792f1b37cab218a290fff57e2"
+}

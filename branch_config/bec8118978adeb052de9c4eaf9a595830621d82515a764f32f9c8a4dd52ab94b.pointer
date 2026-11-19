@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "polymorph-neoforge-1.1.0+1.21.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "tagwiZkJ",
+        "version_id": "VEburL70"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "bec8118978adeb052de9c4eaf9a595830621d82515a764f32f9c8a4dd52ab94b"
+}

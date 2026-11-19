@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "simulated_addition-1.0.2.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "j55CF8YT",
+        "version_id": "H1UegNiW"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "f8ea19252f33650427246ee8eaa891af5db6eaa821c8a0ca96fcdf64a7cc19c1"
+}

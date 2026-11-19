@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "TerraBlender-neoforge-1.21.1-4.1.0.8.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "kkmrDlKT",
+        "version_id": "6e8GCrLb"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "0c49b5ef447a7f09100e9a210888a7347fbda0aa75322063991f6063b25fe3f9"
+}

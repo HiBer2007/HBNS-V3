@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "CBMultipart-1.21.1-3.5.0.155.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "LmvnWWSV",
+        "version_id": "mhteXGK9"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "b95ad536b91a264c484937909e5d3dab4bab9b268fc72f1e51611d0a80506da5"
+}

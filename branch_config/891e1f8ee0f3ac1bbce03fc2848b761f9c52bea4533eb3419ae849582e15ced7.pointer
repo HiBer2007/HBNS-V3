@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "AdvancedAE-1.6.11-1.21.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "rxYaglEe",
+        "version_id": "lHSZ2gYI"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "891e1f8ee0f3ac1bbce03fc2848b761f9c52bea4533eb3419ae849582e15ced7"
+}

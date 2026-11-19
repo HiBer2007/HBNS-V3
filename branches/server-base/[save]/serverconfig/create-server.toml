@@ -1,0 +1,9 @@
+#Client-only settings - If you're looking for general settings, look inside your worlds serverconfig folder!
+
+[general]
+# Enables creative flight in survival mode. If you have the command: /gamemode creative
+enableCreativeFlight = false
+
+[gameplay]
+# Shows the local player heads in their own world, when the skin data is unavailable
+showLocalPlayerHeads = true

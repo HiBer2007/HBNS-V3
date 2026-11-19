@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "create_chocolate_fountain-1.21.1-1.1.0.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "uAn01eey",
+        "version_id": "mBNDwtat"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "295a34095366147c206f101d1f00f81daf53735d05be865be4eba3d709461274"
+}

@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "curios-neoforge-9.5.1+1.21.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "vvuO3ImH",
+        "version_id": "yohfFbgD"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde"
+}

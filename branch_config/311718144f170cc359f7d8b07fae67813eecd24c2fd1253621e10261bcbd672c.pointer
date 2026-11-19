@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "maidsoulkitchen-1.21.1-beta-v0.1.4.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "Q5ZXy0QB",
+        "version_id": "JvPRj6e1"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "311718144f170cc359f7d8b07fae67813eecd24c2fd1253621e10261bcbd672c"
+}

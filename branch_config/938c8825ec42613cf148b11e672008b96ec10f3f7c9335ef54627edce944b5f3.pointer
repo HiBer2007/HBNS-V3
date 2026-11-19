@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "kaleidoscopetavern-1.1.2-neoforge+mc1.21.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "r9RZvhiJ",
+        "version_id": "60r2i5sT"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "938c8825ec42613cf148b11e672008b96ec10f3f7c9335ef54627edce944b5f3"
+}

@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "badpackets-neo-0.8.2.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "ftdbN0KK",
+        "version_id": "RNyYl9M3"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "6e97bf8c2a66df484e8c100a1fc1b615b8beac70ec44f4c3bc07bb672dcd54c6"
+}

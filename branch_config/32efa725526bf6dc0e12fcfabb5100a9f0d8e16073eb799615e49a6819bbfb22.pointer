@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "create_portable_packaging-0.1.2.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "SjR6UJdL",
+        "version_id": "sBMCFI9L"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "32efa725526bf6dc0e12fcfabb5100a9f0d8e16073eb799615e49a6819bbfb22"
+}

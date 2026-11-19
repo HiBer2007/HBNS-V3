@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "Quark-4.1-479.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "qnQsVE2z",
+        "version_id": "dGSYpGOo"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "e75c07635fc2d36c81c127d20b285681c73c3c9b73fff3f01daf2d2b22469da6"
+}

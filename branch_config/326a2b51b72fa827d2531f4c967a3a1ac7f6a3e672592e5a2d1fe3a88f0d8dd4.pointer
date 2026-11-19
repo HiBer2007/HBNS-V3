@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "hotstuff-1.1.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "UFCtLrRv",
+        "version_id": "uUdq4cGM"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "326a2b51b72fa827d2531f4c967a3a1ac7f6a3e672592e5a2d1fe3a88f0d8dd4"
+}

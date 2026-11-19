@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "create-enchantment-industry-2.3.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "JWGBpFUP",
+        "version_id": "zjSKnkVT"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "6bd60393cf582568a09aa38f82fe6ea6e5928659d7befc6b0ee9f46025179064"
+}

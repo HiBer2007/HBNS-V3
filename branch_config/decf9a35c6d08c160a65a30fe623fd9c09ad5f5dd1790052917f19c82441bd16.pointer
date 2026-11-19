@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "ae2wtlib-19.5.0.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "pNabrMMw",
+        "version_id": "y9YgjcrO"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "decf9a35c6d08c160a65a30fe623fd9c09ad5f5dd1790052917f19c82441bd16"
+}

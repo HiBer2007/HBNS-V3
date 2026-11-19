@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "o1C1Dkj5",
+        "version_id": "D6aZn0Em"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "61816c3b7c9d92c6b44f93dce87ceb0a22827f20285d5d9c4d10d519d734de04"
+}

@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "dyeable-components-1.0.3+mc1.21.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "LBYQlFkX",
+        "version_id": "ECPnqd70"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "d9023da6cff116a94566e9a8e72993049e21bf4cd2ed29c4469f323484e5214e"
+}

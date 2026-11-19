@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "unlimited-spawners-21.1-1.0.0.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "Vtz8RJd5",
+        "version_id": "KX6XqKKx"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "8d1974647de8761349c11422cfb801604e2818062c085d425cf6a9b018271148"
+}

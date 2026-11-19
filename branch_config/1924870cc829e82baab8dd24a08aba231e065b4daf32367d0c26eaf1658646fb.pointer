@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "ProjectRed-1.21.1-4.22.0-transmission.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "dXmH4rEw",
+        "version_id": "uCCUxgX5"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "1924870cc829e82baab8dd24a08aba231e065b4daf32367d0c26eaf1658646fb"
+}

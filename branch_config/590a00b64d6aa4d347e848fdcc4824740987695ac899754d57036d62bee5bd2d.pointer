@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "extra_gauges-2.1.2.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "6YJgomwt",
+        "version_id": "7ogQOYHA"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "590a00b64d6aa4d347e848fdcc4824740987695ac899754d57036d62bee5bd2d"
+}

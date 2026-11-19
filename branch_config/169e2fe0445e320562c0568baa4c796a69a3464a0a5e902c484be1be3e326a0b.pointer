@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "cc-tweaked-1.21.1-forge-1.119.0.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "gu7yAYhd",
+        "version_id": "puxJkazX"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "169e2fe0445e320562c0568baa4c796a69a3464a0a5e902c484be1be3e326a0b"
+}

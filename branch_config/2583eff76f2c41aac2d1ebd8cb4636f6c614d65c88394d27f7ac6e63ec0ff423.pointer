@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "Create_Bugfix_Schematic_Patch-1.1.4.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "E7HuZiWj",
+        "version_id": "fdSN9W4S"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "2583eff76f2c41aac2d1ebd8cb4636f6c614d65c88394d27f7ac6e63ec0ff423"
+}

@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "luncheon-meat-s-delight-1.0.6-neoforge-1.21.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "VOh1tIxx",
+        "version_id": "JaD9P0xq"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "af6fe89a432e32347141b2b860a7b528de3dfabc8882d126005e050838f4a04a"
+}

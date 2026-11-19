@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "create_egg_production-1.1.0.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "cVconmno",
+        "version_id": "ix0sktZJ"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "1644631a7a1d79f6ea8432b4c3c2738666eaba487bd73d6bf0e136f050f0bc8c"
+}

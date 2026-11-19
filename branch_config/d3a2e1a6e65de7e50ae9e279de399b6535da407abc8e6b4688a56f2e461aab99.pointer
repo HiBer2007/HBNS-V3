@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "createoreexcavation-1.21-1.6.8.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "ResbpANg",
+        "version_id": "tivxiPTo"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "d3a2e1a6e65de7e50ae9e279de399b6535da407abc8e6b4688a56f2e461aab99"
+}

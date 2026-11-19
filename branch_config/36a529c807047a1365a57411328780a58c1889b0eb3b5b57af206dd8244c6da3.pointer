@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "createframed-1.21.1-1.7.3.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "15fFZ3f4",
+        "version_id": "1BtGyIVR"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "36a529c807047a1365a57411328780a58c1889b0eb3b5b57af206dd8244c6da3"
+}

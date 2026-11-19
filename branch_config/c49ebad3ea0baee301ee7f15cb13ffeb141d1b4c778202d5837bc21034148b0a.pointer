@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "roadweaver-neoforge-2.2.2-1.21.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "6jk8Pote",
+        "version_id": "zi93RooF"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "c49ebad3ea0baee301ee7f15cb13ffeb141d1b4c778202d5837bc21034148b0a"
+}

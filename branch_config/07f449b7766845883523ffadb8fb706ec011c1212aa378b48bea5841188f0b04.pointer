@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "BiomesOPlenty-neoforge-1.21.1-21.1.0.13.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "HXF82T3G",
+        "version_id": "8vIRXPpR"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "07f449b7766845883523ffadb8fb706ec011c1212aa378b48bea5841188f0b04"
+}

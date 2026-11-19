@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "create_parachute-1.0.2.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "vnyV74Zs",
+        "version_id": "znzISlfD"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "af1f8368072c7ec70de253e85ae2f976c5764270fd084e4abfd750bb3626f3bb"
+}

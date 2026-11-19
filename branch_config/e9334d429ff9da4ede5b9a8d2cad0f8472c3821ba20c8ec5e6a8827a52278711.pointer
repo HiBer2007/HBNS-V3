@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "1.21.1-maid_useful_task-1.4.2.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "J8yr3TFW",
+        "version_id": "Dzmtc4cF"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "e9334d429ff9da4ede5b9a8d2cad0f8472c3821ba20c8ec5e6a8827a52278711"
+}

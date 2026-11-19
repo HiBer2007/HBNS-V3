@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "junkyard_utils-1.0.1-neoforge-1.21.1-comp.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "y6imdEG7",
+        "version_id": "qEKe8HA9"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "fb847a37224b0b4f3272854b031eeb567f79f66892407c494d1e93f38a4cf4aa"
+}

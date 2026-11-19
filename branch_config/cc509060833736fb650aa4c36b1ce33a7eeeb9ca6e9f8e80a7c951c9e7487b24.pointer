@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "B3pb093D",
+        "version_id": "hZ6B2Z0x"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "cc509060833736fb650aa4c36b1ce33a7eeeb9ca6e9f8e80a7c951c9e7487b24"
+}

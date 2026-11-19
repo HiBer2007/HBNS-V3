@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "CreativeCore_NEOFORGE_v2.13.38_mc1.21.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "OsZiaDHq",
+        "version_id": "ObUu8hxJ"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "62c88048902c23cde0d8b5b0da2eb7b463c5249380b1f8c86cafd817b0daf4a9"
+}

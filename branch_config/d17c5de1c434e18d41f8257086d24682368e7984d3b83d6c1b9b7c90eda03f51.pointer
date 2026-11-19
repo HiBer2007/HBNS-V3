@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "festive_delight-2.0.0-neoforge-1.21.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "AsUUCoXX",
+        "version_id": "FP8ZwEus"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "d17c5de1c434e18d41f8257086d24682368e7984d3b83d6c1b9b7c90eda03f51"
+}

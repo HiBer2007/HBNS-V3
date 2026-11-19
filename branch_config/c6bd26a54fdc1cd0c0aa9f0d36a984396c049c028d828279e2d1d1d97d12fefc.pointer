@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "createsensors-1.0.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "H2ZeQ6PO",
+        "version_id": "GZAktxSu"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "c6bd26a54fdc1cd0c0aa9f0d36a984396c049c028d828279e2d1d1d97d12fefc"
+}

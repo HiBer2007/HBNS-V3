@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "ProjectRed-1.21.1-4.22.0-integration.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "3JruZJb0",
+        "version_id": "usZlPKH4"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "e1b77ed9921739ce0d890eb3fae2e60fe000719764323c0a34961c9fbe5f4b1f"
+}

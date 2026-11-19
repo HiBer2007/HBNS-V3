@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "universalkeyboard-1.2.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "vnZAETyV",
+        "version_id": "H3Pe2v9j"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "d328cf15c8219f1d309b0ae4c6e0c259d9c6c9a65e2954e53826456c725534b8"
+}

@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "create_aeronautics_transmission_linkage-0.2.3.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "Y1dq5ioE",
+        "version_id": "4m4AqUqT"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "cccf35bf05967e8067251b6dd31bf29c91ba8b50aeda35de550f5dbbeb0f1a92"
+}

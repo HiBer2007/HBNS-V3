@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "kaleidoscopecookery-1.3.0-neoforge+mc1.21.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "v17FatAc",
+        "version_id": "x2qaC31Q"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "9abd26bbab8ecb00274197fea710ec7777b4795f2f7954ab696abe9aedbd29ff"
+}

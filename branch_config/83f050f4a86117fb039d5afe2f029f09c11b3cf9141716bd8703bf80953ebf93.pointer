@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "createnetherindustry-0.2.3.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "N7WPmTgv",
+        "version_id": "SNPbuKeo"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "83f050f4a86117fb039d5afe2f029f09c11b3cf9141716bd8703bf80953ebf93"
+}

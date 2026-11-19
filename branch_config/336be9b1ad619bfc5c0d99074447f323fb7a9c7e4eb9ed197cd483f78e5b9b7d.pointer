@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "create_radar-0.4.8-1.21.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "BLu2Yqfq",
+        "version_id": "3MbtX7qD"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "336be9b1ad619bfc5c0d99074447f323fb7a9c7e4eb9ed197cd483f78e5b9b7d"
+}

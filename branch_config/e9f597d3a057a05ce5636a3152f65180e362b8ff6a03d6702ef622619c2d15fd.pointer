@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "createaddition-1.5.11.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "kU1G12Nn",
+        "version_id": "3ptU8Nq9"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "e9f597d3a057a05ce5636a3152f65180e362b8ff6a03d6702ef622619c2d15fd"
+}

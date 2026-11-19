@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "trading_floor-3.0.16.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "WROfLLvn",
+        "version_id": "K3nIvcWT"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "f0aacddb1f8f191f13b79c603e52bd49a6d1cb918078d8a3bdcb2621c88b8d40"
+}

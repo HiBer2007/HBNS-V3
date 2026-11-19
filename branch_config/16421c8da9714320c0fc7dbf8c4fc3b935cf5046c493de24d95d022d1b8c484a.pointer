@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "tacz-pack-upgrader-2.1.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "fx5N8Hgd",
+        "version_id": "GUj1LtbX"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "16421c8da9714320c0fc7dbf8c4fc3b935cf5046c493de24d95d022d1b8c484a"
+}

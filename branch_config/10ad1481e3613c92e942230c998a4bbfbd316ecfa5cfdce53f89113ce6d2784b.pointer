@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "cratedelight-25.09.22-1.21-neoforge.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "9rlXSyLg",
+        "version_id": "YYynf5qc"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "10ad1481e3613c92e942230c998a4bbfbd316ecfa5cfdce53f89113ce6d2784b"
+}

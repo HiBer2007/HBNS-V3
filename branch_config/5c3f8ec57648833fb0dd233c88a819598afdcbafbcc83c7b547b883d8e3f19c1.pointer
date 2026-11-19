@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "sophisticatedstorage-1.21.1-1.5.49.1731.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "hMlaZH8f",
+        "version_id": "7iMK3S8f"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "5c3f8ec57648833fb0dd233c88a819598afdcbafbcc83c7b547b883d8e3f19c1"
+}

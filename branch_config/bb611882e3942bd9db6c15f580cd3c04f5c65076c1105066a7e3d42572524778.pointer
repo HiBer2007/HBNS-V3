@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "steampowered-1.21.1-3.2.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "J7eSzkL7",
+        "version_id": "w3zLn2Kv"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "bb611882e3942bd9db6c15f580cd3c04f5c65076c1105066a7e3d42572524778"
+}

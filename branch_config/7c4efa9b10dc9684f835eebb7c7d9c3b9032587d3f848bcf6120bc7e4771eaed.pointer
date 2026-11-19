@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "createcontraptionterminals-1.21-1.3.0.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "gOPAFzp0",
+        "version_id": "XrNWi3Wo"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "7c4efa9b10dc9684f835eebb7c7d9c3b9032587d3f848bcf6120bc7e4771eaed"
+}

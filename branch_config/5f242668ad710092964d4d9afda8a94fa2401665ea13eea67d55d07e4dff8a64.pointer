@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "JadeAddons-1.21.1-NeoForge-6.1.0.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "xuDOzCLy",
+        "version_id": "Z9s9lM56"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "5f242668ad710092964d4d9afda8a94fa2401665ea13eea67d55d07e4dff8a64"
+}

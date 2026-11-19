@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "cbc_equally_opposite-0.1.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "9PsdRq7Q",
+        "version_id": "aoRyreZe"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "db4ec31e7320cb304979d65e6d434d0f9ed7857f150c223f979f749c841e262c"
+}

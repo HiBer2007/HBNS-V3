@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "epic-terrain_compatible-1.0.3.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "sc69VpnK",
+        "version_id": "6WRQyW1o"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "6408cbd414df381001576eaf847e9fc8dbf9f3e8e1062f2379e6219fa821b1c3"
+}

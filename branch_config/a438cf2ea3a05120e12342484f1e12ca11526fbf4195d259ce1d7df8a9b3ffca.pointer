@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "bellsandwhistles-0.4.7-1.21.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "gJ5afkVv",
+        "version_id": "w0mifib8"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "a438cf2ea3a05120e12342484f1e12ca11526fbf4195d259ce1d7df8a9b3ffca"
+}

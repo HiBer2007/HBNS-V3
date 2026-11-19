@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "petrolsparts-1.21.1-1.2.10.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "AN0CZD9P",
+        "version_id": "PFCZOOlN"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "a10d3bae391aca62104af067ced9d321a053b8c14b38904caf7a78b61aa5ddb3"
+}

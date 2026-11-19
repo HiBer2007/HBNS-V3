@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "architectury-13.0.8-neoforge.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "lhGA9TYQ",
+        "version_id": "ZxYGwlk0"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "5ec578f814e8cca87aeffa6e424032e78d9ea5ea6b603dd834c2dc13c31141ee"
+}

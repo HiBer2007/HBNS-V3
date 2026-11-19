@@ -1,0 +1,137 @@
+{
+  "branches": [
+    {
+      "description": "根分支，包含全部共享基础模组",
+      "hidden": true,
+      "modloader_version": "21.1.233",
+      "name": "root",
+      "parent": "",
+      "sync_policies": {
+        "files": {
+          "config/create-client.toml": {
+            "mode": "ignore"
+          },
+          "config/create-server.toml": {
+            "mode": "ignore"
+          },
+          "kubejs/config/common.json": {
+            "mode": "force"
+          },
+          "options.txt": {
+            "mode": "ignore"
+          },
+          "patchouli_data.json": {
+            "mode": "ignore",
+            "tracked_keys": [
+              "bookGuiScale",
+              "clickedVisualize"
+            ]
+          }
+        },
+        "folders": {
+          "config": "skip",
+          "global_packs": "mirror",
+          "global_packs/required_data": "mirror",
+          "global_packs/required_resources": "mirror",
+          "kubejs/server_scripts": "mirror",
+          "mods/.connector": "skip",
+          "mods/mcef-libraries": "skip"
+        }
+      }
+    },
+    {
+      "description": "HBNS使用的服务器版本分支",
+      "hidden": true,
+      "modloader_version": "21.1.233",
+      "name": "server-HBNS",
+      "parent": "server-base"
+    },
+    {
+      "description": "客户端版本基础分支",
+      "hidden": true,
+      "modloader_version": "21.1.233",
+      "name": "client-base",
+      "parent": "root"
+    },
+    {
+      "description": "客户端版本调试模式分支",
+      "hidden": true,
+      "modloader_version": "21.1.233",
+      "name": "client-debug",
+      "parent": "client-base"
+    },
+    {
+      "description": "整合包的服务端版本使用的基础分支",
+      "hidden": true,
+      "modloader_version": "",
+      "name": "server-base",
+      "parent": "root"
+    },
+    {
+      "description": "使用Distant Horizon来替代Voxy，适用于无法忍受Voxy内存泄露问题的玩家",
+      "hidden": false,
+      "modloader_version": "",
+      "name": "client-HBNS-DH",
+      "parent": "server-HBNS"
+    },
+    {
+      "description": "此分支为低配置玩家进行了重点优化，降低内存占用并牺牲部分质量和体验",
+      "hidden": false,
+      "modloader_version": "",
+      "name": "client-lowmem",
+      "parent": "client-HBNS"
+    },
+    {
+      "description": "能够用于登录HBNS的标准分支，推荐使用",
+      "hidden": false,
+      "modloader_version": "",
+      "name": "client-HBNS",
+      "parent": "client-base"
+    }
+  ],
+  "custom_mods": {
+    "enabled": false,
+    "path": ""
+  },
+  "description": "主要生产环境分支",
+  "git": {
+    "current_branch": "master",
+    "default_branch": "main",
+    "remote": ""
+  },
+  "hidden": false,
+  "sync_policies": {
+    "default_folder_policy": "incremental_add",
+    "files": {},
+    "folders": {
+      "config": "skip",
+      "crash-reports": "skip",
+      "logs": "skip",
+      "mods": "mirror",
+      "saves": "incremental_overwrite",
+      "screenshots": "skip",
+      "tools": "incremental_overwrite",
+      "defaultconfigs": "skip",
+      "kubejs/config": "skip"
+    }
+  },
+  "version": "1.0",
+  "workspace": {
+    "minecraft": "1.21.1",
+    "modloader": "neoforge",
+    "modloader_version": "21.1.233",
+    "name": "HBNS-AUE-V3"
+  },
+  "file_manifest": {
+    "mods/watermedia_binaries-3.0.1.jar": "a4dc90cd1a274e8978dba8ab6d8e33ebc5d2746e66f9c300bc943ff06148789f"
+  },
+  "pointer_files": {
+    "a4dc90cd1a274e8978dba8ab6d8e33ebc5d2746e66f9c300bc943ff06148789f": {
+      "resolver": "direct_url",
+      "metadata": {
+        "url": "https://cdn.modrinth.com/data/4997XcoK/versions/HTKcN2sw/watermedia_binaries-3.0.1.jar",
+        "filename": "watermedia_binaries-3.0.1.jar"
+      }
+    }
+  }
+}

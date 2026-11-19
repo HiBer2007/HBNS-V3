@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "Patchouli-1.21.1-93-NEOFORGE.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "nU0bVIaL",
+        "version_id": "BIogJv2D"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "959af52ed6640c316c3a8469203420be4aeea11ad6603890ba83bf48f5d9f993"
+}

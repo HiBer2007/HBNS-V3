@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "synaxis-1.2.0.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "aJewFWOb",
+        "version_id": "Th1GDsiT"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "0506afb39afbf3f4a77687ca2e5045f134039539705a7aace6b7ed15f15fb1ef"
+}

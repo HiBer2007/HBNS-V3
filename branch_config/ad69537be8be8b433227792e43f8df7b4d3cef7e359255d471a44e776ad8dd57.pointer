@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "carryon-neoforge-1.21.1-2.2.4.4.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "joEfVgkn",
+        "version_id": "cgZi7nC7"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "ad69537be8be8b433227792e43f8df7b4d3cef7e359255d471a44e776ad8dd57"
+}

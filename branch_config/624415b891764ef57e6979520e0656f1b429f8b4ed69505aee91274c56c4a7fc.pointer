@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "create_connected-1.1.16-mc1.21.1(1).jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "Vg5TIO6d",
+        "version_id": "EHyCRpCV"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "624415b891764ef57e6979520e0656f1b429f8b4ed69505aee91274c56c4a7fc"
+}

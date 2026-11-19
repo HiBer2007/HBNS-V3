@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "globalpacks-neoforge-1.21.1-21.0.6.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "NRLPy2mk",
+        "version_id": "FPcUOp35"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "598781933726c596ac95a4dc960861af0746d5713a12fb8a05d4b8cef45ec48d"
+}

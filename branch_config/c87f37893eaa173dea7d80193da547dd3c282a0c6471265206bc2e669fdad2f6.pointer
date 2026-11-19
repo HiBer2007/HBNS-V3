@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "villagesandpillages-neoforge-mc1.21.1-1.0.3.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "klXONLDA",
+        "version_id": "3BGfKjMb"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "c87f37893eaa173dea7d80193da547dd3c282a0c6471265206bc2e669fdad2f6"
+}

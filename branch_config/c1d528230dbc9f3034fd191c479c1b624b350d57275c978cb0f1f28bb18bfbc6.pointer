@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "createthrusters-bundled-0.1.10.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "Sza3GgEL",
+        "version_id": "J3z85r47"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "c1d528230dbc9f3034fd191c479c1b624b350d57275c978cb0f1f28bb18bfbc6"
+}

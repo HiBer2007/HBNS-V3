@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "dyeable_ropes-1.2.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "dfrdhOy5",
+        "version_id": "lJQN1scE"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "86cb3b00b80de367234071aed7d003034b5d0431003a736a6244d9f030e24271"
+}

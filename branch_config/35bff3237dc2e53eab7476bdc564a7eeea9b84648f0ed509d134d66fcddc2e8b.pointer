@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "sable-weighted_addons-1.0.2.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "gIGuk9m4",
+        "version_id": "LzVbzUws"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "35bff3237dc2e53eab7476bdc564a7eeea9b84648f0ed509d134d66fcddc2e8b"
+}

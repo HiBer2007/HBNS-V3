@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "kaleidoscope_compat-2.7.0-neoforge+mc1.21.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "Xm1eP54z",
+        "version_id": "QkmJT1ko"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "1852ff484ea2b98db16ce6f1214382963c30be27db0046f04b5c99a8c7862dd7"
+}

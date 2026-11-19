@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "cmparallelpipes-neoforge-2.0.2.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "5jfUeix5",
+        "version_id": "aYrPugrv"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "da852ea8c3588bd775ec038743bb3c8332a68e84fd969d56947f62cbf9fc3e11"
+}

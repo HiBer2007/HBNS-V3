@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "ConnectorExtras-1.12.1+1.21.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "FYpiwiBR",
+        "version_id": "dgLCqZyo"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "ee89c3425b9a4bff766aaff02ccf8110c06f5da6ef5d71974556885cf25d4880"
+}

@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "open-parties-and-claims-neoforge-1.21.1-0.26.2.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "gF3BGWvG",
+        "version_id": "b16WHzyv"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "3946f142a7ac98508ce7c25acdd750271265444999f8d253e3505d4e7881a66d"
+}

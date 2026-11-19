@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "abnormals_delight-1.21.1-6.0.2.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "ts3qjo5t",
+        "version_id": "FTg86KNz"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "a15a6bea6a0d290731f1a4378d3a7beb97faeb45d59cb98ed3aa4d14bf4422eb"
+}

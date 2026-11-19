@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "shulkerboxslot-neoforge-6.0.0+1.21.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "R5T1RmWr",
+        "version_id": "kuswJCHf"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "980fb5a7a726698eafdb24ec06809c209ab497982941dcb00d358ed8d6f1baf9"
+}

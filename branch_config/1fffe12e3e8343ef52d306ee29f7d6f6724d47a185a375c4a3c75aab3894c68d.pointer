@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "ForgeConfigAPIPort-v21.1.6-1.21.1-NeoForge.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "ohNO6lps",
+        "version_id": "tWlsPKJI"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "1fffe12e3e8343ef52d306ee29f7d6f6724d47a185a375c4a3c75aab3894c68d"
+}

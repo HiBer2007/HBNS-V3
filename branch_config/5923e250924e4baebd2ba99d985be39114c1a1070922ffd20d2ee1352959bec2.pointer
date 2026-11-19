@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "create_mechanical_extruder-1.21.1-2.2.0-6.0.8.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "hGAlcCDJ",
+        "version_id": "Wr4oLYoH"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "5923e250924e4baebd2ba99d985be39114c1a1070922ffd20d2ee1352959bec2"
+}

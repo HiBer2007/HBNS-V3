@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "collective-1.21.1-8.22.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "e0M1UDsY",
+        "version_id": "6xEh8Qbr"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "a91714404b5c8c7cb192afd0a447af2234fe2ba73ee32a209bdd026362518cbb"
+}

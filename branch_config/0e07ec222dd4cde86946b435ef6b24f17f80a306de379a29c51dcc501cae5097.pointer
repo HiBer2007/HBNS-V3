@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "carryonextend-architectury-neoforge-1.5.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "JbqjOoQj",
+        "version_id": "OdksqY6s"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "0e07ec222dd4cde86946b435ef6b24f17f80a306de379a29c51dcc501cae5097"
+}

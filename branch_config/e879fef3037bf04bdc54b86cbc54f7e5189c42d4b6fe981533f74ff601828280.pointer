@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "cmpackagepipebomb-neoforge-2.1.0.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "sOekynIc",
+        "version_id": "VcrQU0xe"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "e879fef3037bf04bdc54b86cbc54f7e5189c42d4b6fe981533f74ff601828280"
+}

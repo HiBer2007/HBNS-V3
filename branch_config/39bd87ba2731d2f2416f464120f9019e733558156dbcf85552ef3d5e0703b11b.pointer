@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "portable_engine_liquid_fuel-2.0.0-neoforge-1.21.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "HLbPoouI",
+        "version_id": "L6KPVFxI"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "39bd87ba2731d2f2416f464120f9019e733558156dbcf85552ef3d5e0703b11b"
+}

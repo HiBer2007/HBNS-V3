@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "mapsyncer-1.0.3-neoforge-1.21.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "AW5A8Q2T",
+        "version_id": "rTv2rIvC"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "cfb7e33de66885cc16311dd1bc09b48cdd1920a4bcb550d804d2430818533ac9"
+}

@@ -1,0 +1,15 @@
+{
+  "custom_mods": {
+    "enabled": false,
+    "merge_order": "post",
+    "path": ""
+  },
+  "file_manifest": {},
+  "pointer_files": {},
+  "serverconfig_sync": {
+    "enabled": false,
+    "rules": [],
+    "scan_paths": []
+  },
+  "sync_rules": []
+}

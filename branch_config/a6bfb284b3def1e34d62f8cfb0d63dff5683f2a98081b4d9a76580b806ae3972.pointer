@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "immersive_melodies-neoforge-0.6.4+1.21.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "TaSmHw8V",
+        "version_id": "FRJWinhs"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "a6bfb284b3def1e34d62f8cfb0d63dff5683f2a98081b4d9a76580b806ae3972"
+}

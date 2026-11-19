@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "create aeronautics boatpropellers.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "Rzsvsn8U",
+        "version_id": "iMJISpM8"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "23a82c37ae0cf14dcc85ff71e3c07ca571880ab5ac84341f18fc768dabd243b9"
+}

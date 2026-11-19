@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "kaleidoscope_chinesefood-1.0.3-neoforge+1.21.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "cuIIkdlx",
+        "version_id": "g0TgureS"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "5fd2aaa7396a80832b92c32c5028ad361a51970e4edfb5aa71c3850f805a6937"
+}

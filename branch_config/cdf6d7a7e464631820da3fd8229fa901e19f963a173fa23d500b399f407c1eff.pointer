@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "climbable_ropes-1.9.0.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "jImqv1M5",
+        "version_id": "TRzJg2Zx"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "cdf6d7a7e464631820da3fd8229fa901e19f963a173fa23d500b399f407c1eff"
+}

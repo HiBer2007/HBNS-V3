@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "aeronauticscovers-1.21.1-NeoForge-1.0.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "eWrKPy9E",
+        "version_id": "R35biaZf"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "50ea36c42eed5a7e1584a1136cb357b07f17b33b53a922b7f5bcb14715762419"
+}

@@ -1,0 +1,8 @@
+# NeoServerUpdateModpack - test_repo 忽略规则 (GitIgnoreMarkup 标准格式)
+#> 历史遗留: 旧程序错误生成的文件名 (文件已删除, 条目保留, 字面八进制转义)
+"branches/root/required_resources/Distant Horizons\346\261\211\345\214\226\346\235\220\350\264\250\345\214\2052.3.6-1.16.5-1.21.10.zip"
+
+#{ 编辑器缓存
+#> NSUM 编辑器缓存目录 (editor-trash / pointer-cache / hashes.json)
+.NSUM/
+#}

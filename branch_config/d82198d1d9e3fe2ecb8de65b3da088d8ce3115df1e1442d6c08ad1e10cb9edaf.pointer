@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "create_aeronautics_automated_logistics-0.3.0.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "73ZXeRfx",
+        "version_id": "Lr07X5oA"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "d82198d1d9e3fe2ecb8de65b3da088d8ce3115df1e1442d6c08ad1e10cb9edaf"
+}

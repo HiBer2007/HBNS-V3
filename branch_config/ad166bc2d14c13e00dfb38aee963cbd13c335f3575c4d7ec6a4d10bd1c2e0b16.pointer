@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "kaleidoscope_doll_workshop-1.0.4-neoforge+mc1.21.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "a0N5leR0",
+        "version_id": "39T4WSAD"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "ad166bc2d14c13e00dfb38aee963cbd13c335f3575c4d7ec6a4d10bd1c2e0b16"
+}

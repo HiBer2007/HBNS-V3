@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "create_aeronautics_toolgun-0.2.0.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "5fUBLqeW",
+        "version_id": "f3dJL2d2"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "506a0db3f4f17f55ae32e09254ee7b201be784fca686cb749286b21ad024c995"
+}

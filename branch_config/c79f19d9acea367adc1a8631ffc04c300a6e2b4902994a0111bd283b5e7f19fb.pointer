@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "rhino-2101.2.7-build.81.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "sk9knFPE",
+        "version_id": "ZdLtebKH"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "c79f19d9acea367adc1a8631ffc04c300a6e2b4902994a0111bd283b5e7f19fb"
+}

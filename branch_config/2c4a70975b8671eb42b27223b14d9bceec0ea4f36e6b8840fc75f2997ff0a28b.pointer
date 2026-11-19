@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "createappliedkinetics-1.5.4-1.21.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "mYGTCuZY",
+        "version_id": "Sk7TlTkT"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "2c4a70975b8671eb42b27223b14d9bceec0ea4f36e6b8840fc75f2997ff0a28b"
+}

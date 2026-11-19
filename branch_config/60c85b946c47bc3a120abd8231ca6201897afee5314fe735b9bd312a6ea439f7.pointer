@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "createmoredrillheads-1.2.0-1.21.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "9MEmQKkF",
+        "version_id": "CSXCxG3F"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "60c85b946c47bc3a120abd8231ca6201897afee5314fe735b9bd312a6ea439f7"
+}

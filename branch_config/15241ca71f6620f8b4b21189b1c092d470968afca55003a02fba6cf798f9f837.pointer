@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "powershell"
+  ],
+  "original_names": [
+    "1.21.1-maid_storage_manager-1.15.6.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "5sIJPqAj",
+        "version_id": "RgLYYPvs"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "15241ca71f6620f8b4b21189b1c092d470968afca55003a02fba6cf798f9f837"
+}

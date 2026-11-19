@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "stabilized-1.0.0.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "vRmgUJhP",
+        "version_id": "jXmad72z"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "ccf22e5884d3cdcd2473d6586141e63e48cf8714bfbb9344fbedd607b5954c69"
+}

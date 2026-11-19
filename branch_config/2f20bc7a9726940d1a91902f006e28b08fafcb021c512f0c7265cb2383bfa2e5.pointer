@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "fruitsdelight-1.2.14.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "g6sbyCTu",
+        "version_id": "TWbuEFZt"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "2f20bc7a9726940d1a91902f006e28b08fafcb021c512f0c7265cb2383bfa2e5"
+}

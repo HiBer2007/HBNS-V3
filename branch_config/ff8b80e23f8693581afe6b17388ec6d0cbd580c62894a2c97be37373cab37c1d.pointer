@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "escalated-1.2.1+create.6.0.8-mc.1.21.1-neoforge.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "LyOBYG8Q",
+        "version_id": "6DNGSw3t"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "ff8b80e23f8693581afe6b17388ec6d0cbd580c62894a2c97be37373cab37c1d"
+}

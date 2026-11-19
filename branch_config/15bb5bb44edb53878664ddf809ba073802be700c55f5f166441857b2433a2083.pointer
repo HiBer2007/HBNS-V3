@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "flyhigher-1.21.1-1.0.2.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "cePRJjRZ",
+        "version_id": "OzpXNl6w"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "15bb5bb44edb53878664ddf809ba073802be700c55f5f166441857b2433a2083"
+}

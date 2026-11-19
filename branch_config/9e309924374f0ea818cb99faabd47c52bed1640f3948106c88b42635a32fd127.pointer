@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "kubejsable-1.1.0.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "aH1sOU2k",
+        "version_id": "jxjUAAAq"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "9e309924374f0ea818cb99faabd47c52bed1640f3948106c88b42635a32fd127"
+}

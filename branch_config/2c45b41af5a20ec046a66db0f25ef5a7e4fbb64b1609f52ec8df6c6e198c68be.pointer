@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "createsandpapers-1.3.1-1.21.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "PM1NaPZg",
+        "version_id": "gvoVYo9c"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "2c45b41af5a20ec046a66db0f25ef5a7e4fbb64b1609f52ec8df6c6e198c68be"
+}

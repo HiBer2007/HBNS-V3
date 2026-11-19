@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "create_deepfried-forge-1.21.1-0.1.3C.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "76TqKW7O",
+        "version_id": "DZHpQMfB"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "a298140ce265aec78087d19545f7432e0525fc55d9ac45ae29827ecd82db4091"
+}

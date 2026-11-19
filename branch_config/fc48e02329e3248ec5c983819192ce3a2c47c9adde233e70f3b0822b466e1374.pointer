@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "createaddoncompatibility-neoforge-1.21.1-1.0.0.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "QgrK9rtJ",
+        "version_id": "tL1Tayuh"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "fc48e02329e3248ec5c983819192ce3a2c47c9adde233e70f3b0822b466e1374"
+}

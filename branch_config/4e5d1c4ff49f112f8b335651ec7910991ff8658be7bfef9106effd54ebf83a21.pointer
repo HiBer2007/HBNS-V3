@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "rha-1.0.3-1.21.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "UFXAeoqT",
+        "version_id": "xEpTXgPb"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "4e5d1c4ff49f112f8b335651ec7910991ff8658be7bfef9106effd54ebf83a21"
+}

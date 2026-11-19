@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "resourcefullib-neoforge-1.21-3.0.12.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "G1hIVOrD",
+        "version_id": "x99nCLTm"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "5e36f2c69de008dc5795f730c84ab767688f15c810944b585485349a0c911261"
+}

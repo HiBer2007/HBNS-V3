@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "createburnerfuel-1.0.2.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "OizKjGJm",
+        "version_id": "e0B0nsFU"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "3bee384c7d9fcf9ac8ebfbf5817c1733b1d1659a14774ecfbc44ed6f6db87b14"
+}

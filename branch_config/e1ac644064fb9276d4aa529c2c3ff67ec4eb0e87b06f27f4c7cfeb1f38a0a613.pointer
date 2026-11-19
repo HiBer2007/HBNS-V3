@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "createstockbridge-1.21.1-0.2.0.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "V7mbOBO4",
+        "version_id": "fLyIEPoj"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "e1ac644064fb9276d4aa529c2c3ff67ec4eb0e87b06f27f4c7cfeb1f38a0a613"
+}

@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "create_bugfix_clipboard_patch-1.0.0.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "AonjKlxh",
+        "version_id": "ppBKgn9J"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "6dd796b8aa150b9a4318ff3a8b0712491b36efd0efbeef422bf5c15d741a8a1c"
+}

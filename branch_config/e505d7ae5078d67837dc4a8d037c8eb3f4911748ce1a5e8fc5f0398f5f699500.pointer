@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "modernfix-neoforge-5.27.8+mc1.21.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "nmDcB62a",
+        "version_id": "VGmSpV69"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "e505d7ae5078d67837dc4a8d037c8eb3f4911748ce1a5e8fc5f0398f5f699500"
+}

@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "createadditionallogistics-1.21.1-1.4.5.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "CZaz7aje",
+        "version_id": "soesZiME"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "f7bf95504c3bf293464b883c989354dd643d559de5bfcad4a23fed4144592d6a"
+}

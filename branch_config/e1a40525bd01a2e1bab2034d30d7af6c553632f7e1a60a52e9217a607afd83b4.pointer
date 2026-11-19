@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "smartercontraptionstorage-1.21.1-6.0.0-1.4.7.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "W4wCIxSA",
+        "version_id": "qhrqfeZC"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "e1a40525bd01a2e1bab2034d30d7af6c553632f7e1a60a52e9217a607afd83b4"
+}

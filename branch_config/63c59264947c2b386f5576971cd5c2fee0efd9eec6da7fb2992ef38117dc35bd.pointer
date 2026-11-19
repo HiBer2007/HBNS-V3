@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "ae2importexportcard-1.21.1-1.5.0.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "qelfSMnn",
+        "version_id": "UtJepGDL"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "63c59264947c2b386f5576971cd5c2fee0efd9eec6da7fb2992ef38117dc35bd"
+}

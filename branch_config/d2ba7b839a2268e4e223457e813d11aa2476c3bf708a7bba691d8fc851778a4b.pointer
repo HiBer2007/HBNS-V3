@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "supermartijn642configlib-1.1.8-neoforge-mc1.21.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "LN9BxssP",
+        "version_id": "qKL9jM75"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "d2ba7b839a2268e4e223457e813d11aa2476c3bf708a7bba691d8fc851778a4b"
+}

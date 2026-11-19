@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "tectonic-neoforge-1.21.1-2.4.3.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "lWDHr9jE",
+        "version_id": "W3PK2UDI"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "aa14e95c144f9519d0a66f30bb15549b0634d05a72ca4e5a32307290dd2c29cb"
+}

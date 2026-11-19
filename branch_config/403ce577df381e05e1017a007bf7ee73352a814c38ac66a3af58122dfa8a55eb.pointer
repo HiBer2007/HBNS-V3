@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "aero_reformation-1.2.8.2.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "EYJ4oFpq",
+        "version_id": "YxLBZcNU"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "403ce577df381e05e1017a007bf7ee73352a814c38ac66a3af58122dfa8a55eb"
+}

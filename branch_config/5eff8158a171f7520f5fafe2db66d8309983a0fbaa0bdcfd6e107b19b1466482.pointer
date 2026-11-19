@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "aeronauticscompat-1.1.2.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "aLVC5usA",
+        "version_id": "QTtIbBua"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "5eff8158a171f7520f5fafe2db66d8309983a0fbaa0bdcfd6e107b19b1466482"
+}

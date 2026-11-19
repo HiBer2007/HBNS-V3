@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "create_vibrant_vaults-0.3.2.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "hddN8ksR",
+        "version_id": "t17qYXjn"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "cebf5d1d1793fbfc2ee25b63d6f929910ad04ff72da5c1a6987d33961708cff1"
+}

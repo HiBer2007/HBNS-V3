@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "cmlinkedremote-neoforge-2.0.0.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "4hoqvPkW",
+        "version_id": "NtJF029e"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "cb81db9d64af2656092ea956e6f65fb801fd806a49e05bdf45830bfea3f9ed23"
+}

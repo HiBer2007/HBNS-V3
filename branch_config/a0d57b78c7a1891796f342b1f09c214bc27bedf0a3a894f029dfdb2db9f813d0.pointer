@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "z9Ve58Ih",
+        "version_id": "P00i2hJn"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "a0d57b78c7a1891796f342b1f09c214bc27bedf0a3a894f029dfdb2db9f813d0"
+}

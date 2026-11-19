@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "hearthandharvest-1.21.1-1.2.2.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "8EEEXOzj",
+        "version_id": "JRGRCa6G"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "0347b67516cb22cd1d515b43390f2415eb42cb2456e95d7194ae9ee8835bed6b"
+}

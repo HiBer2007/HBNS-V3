@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "cuisinedelight-1.2.8.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "gOQjCAAD",
+        "version_id": "Ngn5DVCK"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "a68bcd1368de57ecdce49d61fe19d77a7404d7180de19cfbc25f3e6ce1b1117f"
+}

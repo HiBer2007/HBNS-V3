@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "AdvancedPeripherals-1.21.1-0.7.61b.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "SOw6jD6x",
+        "version_id": "Q4pvAMQj"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "0901bf4a63c2c5b2251b0e05a7e1f00e56a4d7b0d67eafd7d56ef8dcbab50c8a"
+}

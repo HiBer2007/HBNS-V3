@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "mechanicals-1.21.1-1.1.0.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "ProvjTA7",
+        "version_id": "z9HvpJMU"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "122c03b1b94bcf515056e197bcc14527e4f91306d8e38b76ba195ab64f8e05de"
+}

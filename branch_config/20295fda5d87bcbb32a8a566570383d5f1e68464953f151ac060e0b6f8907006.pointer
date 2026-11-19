@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "simulated_gauges-1.1.0.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "AwDdvIWn",
+        "version_id": "LWK7hUmm"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "20295fda5d87bcbb32a8a566570383d5f1e68464953f151ac060e0b6f8907006"
+}

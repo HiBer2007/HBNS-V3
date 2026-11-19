@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "create-hangars-V1.0.0.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "en3HEaOT",
+        "version_id": "3IYW39g2"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "f2e37c6266c90665f7e442c43f7ad386391667c3893c44cb9ac5f599357c9b3c"
+}

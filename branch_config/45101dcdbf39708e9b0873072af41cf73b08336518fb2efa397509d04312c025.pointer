@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "sable-schematic-api-0.2.6.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "hNGBYvQN",
+        "version_id": "iJvX7nRZ"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "45101dcdbf39708e9b0873072af41cf73b08336518fb2efa397509d04312c025"
+}

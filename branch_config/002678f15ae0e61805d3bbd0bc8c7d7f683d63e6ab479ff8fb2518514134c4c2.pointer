@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "MyNethersDelight-1.21.1-1.10.2.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "O53VhQoZ",
+        "version_id": "qBUSJw5Z"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "002678f15ae0e61805d3bbd0bc8c7d7f683d63e6ab479ff8fb2518514134c4c2"
+}

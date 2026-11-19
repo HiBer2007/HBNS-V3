@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "garnished-2.1.9.1+1.21.1-neoforged.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "6e2SlzR4",
+        "version_id": "Y41ntUK1"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "f8ac23dd43e5684e00a5651e932ba7688017e3f08255a2f40751b448f7dc349f"
+}

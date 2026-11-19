@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "player-animation-lib-forge-2.0.4+1.21.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "gedNE4y2",
+        "version_id": "HJZB6bmA"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "dbe5de45f5cd60c0e5e47af14e6d564534a98456e973cf670cb881f6938eee92"
+}

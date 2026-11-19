@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "Create Encased-1.21.1-1.8.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "hSSqdyU1",
+        "version_id": "5ZrKxCun"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "a25ac87e3668b4be0920743bfb81f84796f115de5e414477db266585c9f791d1"
+}

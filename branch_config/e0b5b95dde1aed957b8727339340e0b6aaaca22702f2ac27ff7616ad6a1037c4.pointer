@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "betterarcheology-neoforge-1.21.1-1.3.4.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "zCh7omyG",
+        "version_id": "rp4lPDKI"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "e0b5b95dde1aed957b8727339340e0b6aaaca22702f2ac27ff7616ad6a1037c4"
+}

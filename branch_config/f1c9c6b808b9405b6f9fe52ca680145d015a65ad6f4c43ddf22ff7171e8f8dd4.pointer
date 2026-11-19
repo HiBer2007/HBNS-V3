@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "dragonlib-neoforge-1.21.1-beta-3.0.26.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "sbIsGaOV",
+        "version_id": "6bSNB0Np"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "f1c9c6b808b9405b6f9fe52ca680145d015a65ad6f4c43ddf22ff7171e8f8dd4"
+}

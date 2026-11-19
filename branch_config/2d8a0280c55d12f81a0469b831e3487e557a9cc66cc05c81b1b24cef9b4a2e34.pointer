@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "aero_addition-1.0.2.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "uCWxfksC",
+        "version_id": "7d3bWEWk"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "2d8a0280c55d12f81a0469b831e3487e557a9cc66cc05c81b1b24cef9b4a2e34"
+}

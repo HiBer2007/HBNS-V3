@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "create_bic_bit-1.0.2C.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "16DuAG4k",
+        "version_id": "15wUZ9Rw"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "9e3846da4988b79e0c2284081f08e7b2afe9b8ba37e9b7187c54fd01ffd6e79b"
+}

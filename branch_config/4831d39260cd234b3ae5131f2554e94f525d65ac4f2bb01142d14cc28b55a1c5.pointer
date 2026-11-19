@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "create-integrated-farming-1.2.2.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "9k1pAsfR",
+        "version_id": "DKe4Owf4"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "4831d39260cd234b3ae5131f2554e94f525d65ac4f2bb01142d14cc28b55a1c5"
+}

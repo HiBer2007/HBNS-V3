@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "ProjectRed-1.21.1-4.22.0-core.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "zIlxygxr",
+        "version_id": "va48Klx8"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "82d0d2bf31b9da96e7656e9ba0dd344e5b19a91099e173d607122ba058cac7d1"
+}

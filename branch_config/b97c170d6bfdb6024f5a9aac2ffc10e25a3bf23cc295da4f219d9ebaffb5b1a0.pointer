@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "sable-weighted_tfmg-1.0.0.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "iiew33xt",
+        "version_id": "lI68KzQj"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "b97c170d6bfdb6024f5a9aac2ffc10e25a3bf23cc295da4f219d9ebaffb5b1a0"
+}

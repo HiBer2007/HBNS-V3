@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "pantographsandwires-neoforge-1.21.1-beta-0.2.2-C6.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "VzdCnMqW",
+        "version_id": "KV6hDZ7C"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "b9908e283b33697c7b3608629967ae01c8dc2c119a047e3d4ce2569061b50099"
+}

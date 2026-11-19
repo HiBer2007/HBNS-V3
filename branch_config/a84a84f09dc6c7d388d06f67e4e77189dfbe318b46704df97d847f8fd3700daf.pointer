@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "merequester-neoforge-1.21.1-1.4.2.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "E6BFl96N",
+        "version_id": "5DF41VC3"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "a84a84f09dc6c7d388d06f67e4e77189dfbe318b46704df97d847f8fd3700daf"
+}

@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "spark-1.10.124-neoforge.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "l6YH9Als",
+        "version_id": "v5qtqRQi"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "647e8a81afbe414dba1df4ba15fd06c5d32d4cb544e68828405e8e074c2e16db"
+}

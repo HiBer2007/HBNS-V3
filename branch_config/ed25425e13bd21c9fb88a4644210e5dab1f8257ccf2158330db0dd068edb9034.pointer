@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "create-new-age-1.1.7c+neoforge-mc1.21.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "FTeXqI9v",
+        "version_id": "eQ9rbApE"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "ed25425e13bd21c9fb88a4644210e5dab1f8257ccf2158330db0dd068edb9034"
+}

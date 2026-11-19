@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "toms_storage-1.21-2.3.2.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "XZNI4Cpy",
+        "version_id": "x8jcBWWG"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "34f242f60a601750cbe082870ef47bc3e45515fa55f26d4c9644e779ba1f50de"
+}

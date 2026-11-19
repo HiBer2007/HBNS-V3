@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "rechiseled-1.2.4-neoforge-mc1.21.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "B0g2vT6l",
+        "version_id": "b3uurWWs"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "3316acf7af3a250fd0f2fa5c39540ee4e81c21f7ead29c4107d6a95f47642dd2"
+}

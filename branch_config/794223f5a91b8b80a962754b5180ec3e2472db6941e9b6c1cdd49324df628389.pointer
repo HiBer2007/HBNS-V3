@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "Ribbits-1.21.1-NeoForge-4.1.6.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "8YcE8y4T",
+        "version_id": "XrUKaWrw"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "794223f5a91b8b80a962754b5180ec3e2472db6941e9b6c1cdd49324df628389"
+}

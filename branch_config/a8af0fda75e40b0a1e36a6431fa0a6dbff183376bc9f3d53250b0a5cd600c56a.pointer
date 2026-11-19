@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "almostunified-neoforge-1.21.1-1.4.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "sdaSaQEz",
+        "version_id": "vvzNMESp"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "a8af0fda75e40b0a1e36a6431fa0a6dbff183376bc9f3d53250b0a5cd600c56a"
+}

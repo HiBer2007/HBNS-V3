@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "kaleidoscopedoll-1.3.1-neoforge+mc1.21.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "vQLjjxNs",
+        "version_id": "cETCPY25"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "cea50b24ddfbc0b5694339fa34522aa9883fe53170fcb73805f74c4c94e2f21d"
+}

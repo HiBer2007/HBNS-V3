@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "create_aeronautics_placeable_wheels-0.1-1.21.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "cC5Hn6ck",
+        "version_id": "AzO4inwW"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "63213ee0b21186e064f779065611e04f4e960d5c78c3f883f85ad77551ce755a"
+}

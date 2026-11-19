@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "sliceanddice-forge-4.2.4.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "GmjmRQ0A",
+        "version_id": "tyVnEa75"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "c3bd743a73eed3de14f6be5221fe68655cfeed0749f8f467f2ce2012ed1416bd"
+}

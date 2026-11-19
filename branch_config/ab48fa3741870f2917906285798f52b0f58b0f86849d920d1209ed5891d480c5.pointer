@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "windtunnel-1.1.8.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "EnEqwk7y",
+        "version_id": "IdHA8JDW"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "ab48fa3741870f2917906285798f52b0f58b0f86849d920d1209ed5891d480c5"
+}

@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "schematician-0.8.5.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "1ia4vWrJ",
+        "version_id": "5MOOWq5E"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "af4aef15e6a8988768e48add9c1b8067bf52db18a217c5aca4b532685c464646"
+}

@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "AppliedFlux-1.21-2.1.4-neoforge.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "oMgZ004U",
+        "version_id": "sD979rMC"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "2d5c0dfbf1853e28d515b4224ca39a1de4520a1ac2e0fe987e6400965bf1f555"
+}

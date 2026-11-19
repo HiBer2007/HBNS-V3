@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "alloyed-3.0.9+1.21.1-neoforge.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "KUInlTFo",
+        "version_id": "mhmFlajn"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "d32e68e20733859cb2fa2ca5ed3141a240a96c1aacd6259ae44afea00eb16929"
+}

@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "stickywheels-1.21.1-0.0.2.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "WHj1Nss6",
+        "version_id": "C0ewmXZL"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "81409c36b6c340e7342cfb2ff65a18e9dbdb49e61be93c7c7650e1dc6f6fc29f"
+}

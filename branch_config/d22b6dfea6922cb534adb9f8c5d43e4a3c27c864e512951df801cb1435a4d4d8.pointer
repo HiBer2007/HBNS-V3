@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "supermartijn642corelib-1.1.21-neoforge-mc1.21.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "rOUBggPv",
+        "version_id": "hcYSe7v7"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "d22b6dfea6922cb534adb9f8c5d43e4a3c27c864e512951df801cb1435a4d4d8"
+}

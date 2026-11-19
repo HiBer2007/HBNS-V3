@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "t5FRdP87",
+        "version_id": "AvedwcIe"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "888b1e6d1ada21982a75abfb4afb040c9bc2cc68777ec5fcd1199b978e3d4f8d"
+}

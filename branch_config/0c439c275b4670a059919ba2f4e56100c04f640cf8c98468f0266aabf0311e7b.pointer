@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "otyacraftenginerenewed-neoforge-3.7.2-1.21.1-beta1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "uWLRcWS4",
+        "version_id": "U0rlb8ce"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "0c439c275b4670a059919ba2f4e56100c04f640cf8c98468f0266aabf0311e7b"
+}

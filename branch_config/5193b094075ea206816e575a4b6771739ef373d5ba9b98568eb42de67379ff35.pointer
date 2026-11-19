@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "custom_map_location-neoforge-1.21.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "fTuv4NYl",
+        "version_id": "3RX1gJGZ"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "5193b094075ea206816e575a4b6771739ef373d5ba9b98568eb42de67379ff35"
+}

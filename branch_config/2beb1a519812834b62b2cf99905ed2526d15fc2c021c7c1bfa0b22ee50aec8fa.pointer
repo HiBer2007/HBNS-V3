@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "sable-weighted_dndecor-1.0.0.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "ZpfgB3tl",
+        "version_id": "ZmcWuJnp"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "2beb1a519812834b62b2cf99905ed2526d15fc2c021c7c1bfa0b22ee50aec8fa"
+}

@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "CBCmoreshells-1.1.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "Gwl4VXlb",
+        "version_id": "H1uIz6Uf"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "0c0f3def7fc6e266df917ece1ebbcd03df9f3224c5ecbd5b96b32190c83282b9"
+}

@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "resourcefulconfig-neoforge-1.21-3.0.11.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "M1953qlQ",
+        "version_id": "lSbyRD6v"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "25b4f3502d25c535004acd4a9420272fff01d2f1e2df352239fec93fdab005d4"
+}

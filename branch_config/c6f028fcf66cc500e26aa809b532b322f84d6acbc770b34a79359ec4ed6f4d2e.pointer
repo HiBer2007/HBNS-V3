@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "sophisticatedstoragecreateintegration-1.21.1-0.1.17.132.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "MJ0hdevs",
+        "version_id": "cxMKWFFD"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "c6f028fcf66cc500e26aa809b532b322f84d6acbc770b34a79359ec4ed6f4d2e"
+}

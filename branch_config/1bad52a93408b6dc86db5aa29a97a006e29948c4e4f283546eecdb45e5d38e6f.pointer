@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "pineapple_delight-1.1.2-1.21.1-neoforge.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "8wXnuOvg",
+        "version_id": "GYMvjFwu"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "1bad52a93408b6dc86db5aa29a97a006e29948c4e4f283546eecdb45e5d38e6f"
+}

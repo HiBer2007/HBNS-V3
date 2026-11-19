@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "create_compressed-2.2.0-neoforge-1.21.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "Sy4Box1J",
+        "version_id": "rW8MeyAL"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "8c0c86a75aa082fd603eb61dfdc72d028b01b1a7bdad377ed2de64ace95b5622"
+}

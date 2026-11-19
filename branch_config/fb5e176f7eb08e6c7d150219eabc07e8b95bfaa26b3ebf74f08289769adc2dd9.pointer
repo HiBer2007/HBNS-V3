@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "aeronauticadditions_neoforge_mc_1.21.1-1.1.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "Ui2FZZHS",
+        "version_id": "pndYasHC"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "fb5e176f7eb08e6c7d150219eabc07e8b95bfaa26b3ebf74f08289769adc2dd9"
+}

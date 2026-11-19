@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "minersdelight-1.21.1-1.4.5.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "qMxbM4BQ",
+        "version_id": "YUHbwbgQ"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "616881ef219807f24962a461afa1fe10eab7989099779b4650bbceca48213344"
+}

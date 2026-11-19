@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "Z2mXHnxP",
+        "version_id": "iopJiJQp"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "5450a64a7036237f449496837e08f3e5b3aa1d7974a10df43944172def75d8ff"
+}

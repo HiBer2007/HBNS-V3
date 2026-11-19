@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "caelus-neoforge-7.0.1+1.21.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "40FYwb4z",
+        "version_id": "KsfI4QsR"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "432a645557f29de159d9edde2fd109f8e3b32ff30895b4fede04ee5f1a1a682f"
+}

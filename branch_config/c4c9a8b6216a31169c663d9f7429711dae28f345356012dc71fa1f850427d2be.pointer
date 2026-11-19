@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "minopp-1.4.0+1.21.1+neoforge.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "4QitwNm0",
+        "version_id": "oNb733MS"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "c4c9a8b6216a31169c663d9f7429711dae28f345356012dc71fa1f850427d2be"
+}

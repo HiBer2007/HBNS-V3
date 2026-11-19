@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "drivebywire-0.2.9.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "KsqvI0hD",
+        "version_id": "RjtgTIzm"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "5f8eaa10a6d61aa7330ed997c4f812509c55f02f7213afbebde77c4af17c23c3"
+}

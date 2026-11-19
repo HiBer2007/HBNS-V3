@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "cable_facades-1.21.1-NeoForge-2.0.2.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "twipgzWx",
+        "version_id": "bz5PtFcr"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "3791c5fccdb73f7e9ec74292ba71376fc6b7ec1d75c674f965be450f22c04873"
+}

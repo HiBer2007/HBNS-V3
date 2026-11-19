@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "PlayerRevive_NEOFORGE_v2.1.2_mc1.21.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "ABIMzABM",
+        "version_id": "LS7UoW1b"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "bb0f482c43156e9fbdea8e6309c707c62f301d673e5e5e5b268315d0b9272276"
+}

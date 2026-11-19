@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "charmofundying-neoforge-9.1.0+1.21.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "b5GyyYkp",
+        "version_id": "bfg1ghkD"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "361bb87bb0cd0881ab5d1f469595c26c49992d4ed965f2631015135d61f515d1"
+}

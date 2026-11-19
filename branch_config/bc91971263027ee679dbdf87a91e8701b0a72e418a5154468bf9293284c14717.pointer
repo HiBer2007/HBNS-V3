@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "slavic_delight-0.3.2.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "r64P7w6f",
+        "version_id": "iZ2EtzFd"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "bc91971263027ee679dbdf87a91e8701b0a72e418a5154468bf9293284c14717"
+}

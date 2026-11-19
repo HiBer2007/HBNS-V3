@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "CreateFastSchematicCannon-1.4.1-neoforge-1.21.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "DebMSCVn",
+        "version_id": "e70DdjWe"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "5dbc33a64c01e8fef09585fae9d09c9ae04b800e3c4315ace85901a68eb5fae3"
+}

@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "direct_chute-1.1.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "wKK8BgBy",
+        "version_id": "oIWHOm1B"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "ba08bb1a31959d3d977ea2bf973b8409591c7e8dce9fffecb5c34bd64f55ff7c"
+}

@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "xaeros-playerposition-neoforge-1.21.1-1.0.0.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "dNLZ9VjB",
+        "version_id": "RyyM9dm3"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "45efe41a5ffc4e6860af1e27f4ca62d90bab08ef7b88085fc2eb843219467407"
+}

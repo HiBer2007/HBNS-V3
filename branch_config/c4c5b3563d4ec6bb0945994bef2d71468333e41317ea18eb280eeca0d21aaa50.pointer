@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "stoat-1.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "fhMTnqBJ",
+        "version_id": "ZL2e5acP"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "c4c5b3563d4ec6bb0945994bef2d71468333e41317ea18eb280eeca0d21aaa50"
+}

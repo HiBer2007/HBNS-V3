@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "create-cardboarded-conveynience-1.21.1-neoforge-1.0.0.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "dWU6xUnj",
+        "version_id": "DkktDPvc"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "0e94875e00bb71e5dcd6bdf5cf1be024bd213a5d9db11c024e6e02a17cb7000b"
+}

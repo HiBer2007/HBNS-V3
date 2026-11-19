@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "ExtendedAE-1.21-2.2.29-neoforge.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "JiOqfoFM",
+        "version_id": "4BXqcY77"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "358b6eed1f7b52a6123454851e85907de3730cf04b929a8fb5f70e43412fdfae"
+}

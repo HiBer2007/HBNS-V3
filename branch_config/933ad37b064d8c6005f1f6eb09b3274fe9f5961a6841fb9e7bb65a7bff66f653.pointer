@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "createenchantablemachinery-3.6.0+mc1.21.1-neoforge.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "eqrvp4NK",
+        "version_id": "Cw5k6c0a"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "933ad37b064d8c6005f1f6eb09b3274fe9f5961a6841fb9e7bb65a7bff66f653"
+}

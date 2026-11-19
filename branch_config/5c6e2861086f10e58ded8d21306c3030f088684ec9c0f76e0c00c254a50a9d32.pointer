@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "tacz-neoforge-1.21.1-1.1.8-r2.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "OypNE65K",
+        "version_id": "nJwswUwG"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "5c6e2861086f10e58ded8d21306c3030f088684ec9c0f76e0c00c254a50a9d32"
+}

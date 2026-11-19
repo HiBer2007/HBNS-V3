@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "create_rustic_structures-1.0.1-neoforge-1.21.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "lmbZMkEZ",
+        "version_id": "d0sTQvqS"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "96fa8fb53efd33586436d3ac411615754a573fe1f0a6d4c11c8b922126fb8fc6"
+}

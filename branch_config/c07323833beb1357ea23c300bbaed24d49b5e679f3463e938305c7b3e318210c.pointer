@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "trailandtales_delight-0.4.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "Koee7vhY",
+        "version_id": "oJe8mlNE"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "c07323833beb1357ea23c300bbaed24d49b5e679f3463e938305c7b3e318210c"
+}

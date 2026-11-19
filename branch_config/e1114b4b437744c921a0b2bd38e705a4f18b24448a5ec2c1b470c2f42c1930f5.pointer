@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "fallingtrees-1.9.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "wc7bjBVi",
+        "version_id": "yljdTSy2"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "e1114b4b437744c921a0b2bd38e705a4f18b24448a5ec2c1b470c2f42c1930f5"
+}

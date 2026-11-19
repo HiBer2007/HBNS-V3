@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "packagerspsic-1.0.0.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "MAWWVb2i",
+        "version_id": "e7XZY6Md"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "50e0741d5ca34de140173ac61fde0f6ba9b7bf168cd85ea4d9c655697ef8a61b"
+}

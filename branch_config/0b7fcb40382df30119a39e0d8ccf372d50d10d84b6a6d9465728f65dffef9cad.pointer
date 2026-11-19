@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "chunkloaders-1.2.8-neoforge-mc1.21.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "t1VgucWo",
+        "version_id": "xC7Vc2qa"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "0b7fcb40382df30119a39e0d8ccf372d50d10d84b6a6d9465728f65dffef9cad"
+}

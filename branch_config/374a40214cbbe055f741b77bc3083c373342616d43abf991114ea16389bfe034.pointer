@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "kaleidoscope_dim_wine-1.4.1-mc1.21.1-neoforge.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "BrGJp2pm",
+        "version_id": "QBCGPeRo"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "374a40214cbbe055f741b77bc3083c373342616d43abf991114ea16389bfe034"
+}

@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "blueprint-1.21.1-8.1.0.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "VsM5EDoI",
+        "version_id": "5JOCYuQM"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "3d95404e8b91c99f12cc08d14ff435d91a3b0799affa33fc62a0cafa782e3fa7"
+}

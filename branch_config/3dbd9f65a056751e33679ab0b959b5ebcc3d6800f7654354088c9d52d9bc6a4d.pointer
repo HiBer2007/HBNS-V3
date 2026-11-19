@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "maidbeacon-1.0.1-bugfix.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "kWT5Rygj",
+        "version_id": "2T4GYNBd"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "3dbd9f65a056751e33679ab0b959b5ebcc3d6800f7654354088c9d52d9bc6a4d"
+}

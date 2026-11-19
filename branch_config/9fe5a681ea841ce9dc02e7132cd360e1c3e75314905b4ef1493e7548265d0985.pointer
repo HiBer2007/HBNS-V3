@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "create_jetpack-forge-5.1.2.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "UbFnAd4l",
+        "version_id": "4Ndp4d21"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "9fe5a681ea841ce9dc02e7132cd360e1c3e75314905b4ef1493e7548265d0985"
+}

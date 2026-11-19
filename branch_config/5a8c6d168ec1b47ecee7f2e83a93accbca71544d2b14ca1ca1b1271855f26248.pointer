@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "create-aeronautics-bundled-1.21.1-1.2.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "oWaK0Q19",
+        "version_id": "YhZLrAFC"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "5a8c6d168ec1b47ecee7f2e83a93accbca71544d2b14ca1ca1b1271855f26248"
+}

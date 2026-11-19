@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "HjmxVlSr",
+        "version_id": "Go3nbneL"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "5625930dfb3240820d6e4ecf55fff0c39f70ce782fad117a4d418251184c7be0"
+}

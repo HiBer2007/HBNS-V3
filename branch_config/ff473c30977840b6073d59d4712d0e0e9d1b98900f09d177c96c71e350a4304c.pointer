@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "create_compact_transmission-1.0.6.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "qBkvR8oH",
+        "version_id": "ZshDdrRJ"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "ff473c30977840b6073d59d4712d0e0e9d1b98900f09d177c96c71e350a4304c"
+}

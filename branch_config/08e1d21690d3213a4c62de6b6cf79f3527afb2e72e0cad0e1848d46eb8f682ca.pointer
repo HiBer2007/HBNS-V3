@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "YungsApi-1.21.1-NeoForge-5.1.6.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "Ua7DFN59",
+        "version_id": "ZB22DE9q"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "08e1d21690d3213a4c62de6b6cf79f3527afb2e72e0cad0e1848d46eb8f682ca"
+}

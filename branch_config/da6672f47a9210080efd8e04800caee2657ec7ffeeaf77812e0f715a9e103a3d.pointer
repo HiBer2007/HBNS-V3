@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "aeroadditionbridge-1.0.0.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "tum2vG0T",
+        "version_id": "zibO5DQH"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "da6672f47a9210080efd8e04800caee2657ec7ffeeaf77812e0f715a9e103a3d"
+}

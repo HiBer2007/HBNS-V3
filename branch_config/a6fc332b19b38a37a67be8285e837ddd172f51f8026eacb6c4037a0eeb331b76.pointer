@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "deployer-0.1.2.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "OZhUIuou",
+        "version_id": "XrLW2FiE"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "a6fc332b19b38a37a67be8285e837ddd172f51f8026eacb6c4037a0eeb331b76"
+}

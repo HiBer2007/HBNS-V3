@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "vanilladelight-1.21.1-1.0.5.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "q5SZGtGt",
+        "version_id": "nzE6uHnF"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "4c41cebd08c6e4731dc11cde6e00a10eec0d89a7e3ded6a67d9c1c98b8d234e0"
+}

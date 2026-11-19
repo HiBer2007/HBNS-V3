@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "molten_vents-1.21.1-2.1.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "uuVy6k1s",
+        "version_id": "By33YVeb"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "62aa307741ae10c3df3bd364dfe2e706413a1b428601ff61e4aeb5049cc40b5c"
+}

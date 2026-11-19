@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "mysterious_mountain_lib-1.2.15-1.21.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "ntMyNH8c",
+        "version_id": "o49zOLis"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "d750a23aac696222984935263baeec96e95901bbeca134d8a1018d66e6e9e2d6"
+}

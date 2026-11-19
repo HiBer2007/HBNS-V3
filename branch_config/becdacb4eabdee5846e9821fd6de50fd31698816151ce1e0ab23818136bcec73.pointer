@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "createdieselgenerators-1.21.1-1.3.12.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "ZM3tt6p1",
+        "version_id": "3PddTDD8"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "becdacb4eabdee5846e9821fd6de50fd31698816151ce1e0ab23818136bcec73"
+}

@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "elytraslot-neoforge-9.0.2+1.21.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "mSQF1NpT",
+        "version_id": "RX6A02W1"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "d86adf384390c40b144a296ef4fc11b72fd81e2780b264bd9ceb7b5ab9147399"
+}

@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "AdvancedBackups-neoforge-1.21-3.7.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "Jrmoreqs",
+        "version_id": "ufIaRDFo"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "50a3699f05952035bbbd2b5f3e9e11fcc43bfc9d5fee8c104b4ed7b32ef496be"
+}

@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "sabletrueimpact-1.0.0-gamma.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "PskD6LDU",
+        "version_id": "oHIXUMgV"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "6a30042afb40109dc63f796483dd58c669a71e54fff047923f58e47604d833d3"
+}

@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "cmpackagecouriers-neoforge-2.3.0.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "GRqrodjM",
+        "version_id": "rv1JwLWn"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "76e728a765ee04a53e566eda6b302a05ff855965dcf0230cc33f3dd2c1836e8b"
+}

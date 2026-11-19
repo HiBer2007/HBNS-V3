@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "petrolpark-1.21.1-1.4.35.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "ik2WZkTZ",
+        "version_id": "SZ95SIk8"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "4def6af0f57645df998f8a08a51bd01d5e85347838a4b533d6e7d81f6eff84d7"
+}

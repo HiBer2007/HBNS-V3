@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "tacz_aero_compat-1.6.0.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "jgOzA8I4",
+        "version_id": "vtBxkIPe"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "a01e51f053afb3a8164fcf7f9cc1f78cf0dd8701d1849d156d6c46d070647c76"
+}

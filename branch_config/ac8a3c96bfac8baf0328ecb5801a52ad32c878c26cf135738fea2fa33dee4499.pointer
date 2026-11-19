@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "Create Aeronautics Gyroscope Stabilizers.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "JcEFpckH",
+        "version_id": "9P9dNVUn"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "ac8a3c96bfac8baf0328ecb5801a52ad32c878c26cf135738fea2fa33dee4499"
+}

@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "fzzy_config-0.7.6+1.21+neoforge.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "hYykXjDp",
+        "version_id": "MAPG6cXE"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "4e5cc1438087b0bc0276969e88b9ad0bdf2bcc60d6caf5fe79e18947d7a29050"
+}

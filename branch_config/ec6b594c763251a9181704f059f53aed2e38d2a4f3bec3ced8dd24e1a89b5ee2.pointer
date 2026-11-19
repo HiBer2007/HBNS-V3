@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "fuckcrafter-1.0.0.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "ZSgeBqV1",
+        "version_id": "VkVh6Mev"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "ec6b594c763251a9181704f059f53aed2e38d2a4f3bec3ced8dd24e1a89b5ee2"
+}

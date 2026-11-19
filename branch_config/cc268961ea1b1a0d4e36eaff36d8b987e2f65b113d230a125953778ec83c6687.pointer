@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "cccbridge-mc1.21.1-v1.7.2-neoforge.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "fXt291FO",
+        "version_id": "k3OVsWus"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "cc268961ea1b1a0d4e36eaff36d8b987e2f65b113d230a125953778ec83c6687"
+}

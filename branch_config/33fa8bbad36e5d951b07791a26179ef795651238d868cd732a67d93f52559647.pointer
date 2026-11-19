@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "nmbl-1.0.4-neoforge-mc1.21.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "UxzhxiVl",
+        "version_id": "ZlH1lTYi"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "33fa8bbad36e5d951b07791a26179ef795651238d868cd732a67d93f52559647"
+}

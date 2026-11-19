@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "sophisticatedcore-1.21.1-1.4.41.1867.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "nmoqTijg",
+        "version_id": "xLeCYw3D"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "12107b78a25a95475c5a95744e921fec2dbeeb21dd3a65bb6ebb63d06055a7de"
+}

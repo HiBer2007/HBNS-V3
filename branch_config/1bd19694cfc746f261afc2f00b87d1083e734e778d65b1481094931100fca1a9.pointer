@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "railways-0.2.0+neoforge-mc1.21.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "L3Jv0QZI",
+        "version_id": "oQKsMKfj"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "1bd19694cfc746f261afc2f00b87d1083e734e778d65b1481094931100fca1a9"
+}

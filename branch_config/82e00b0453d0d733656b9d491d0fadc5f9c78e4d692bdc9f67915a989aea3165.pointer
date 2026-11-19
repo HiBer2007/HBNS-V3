@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "analogleverdrag-neoforge-1.21.1-1.4.0.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "GQNtImhh",
+        "version_id": "R1cszYa4"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "82e00b0453d0d733656b9d491d0fadc5f9c78e4d692bdc9f67915a989aea3165"
+}

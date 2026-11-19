@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "rusticdelight-neoforge-1.21-1.6.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "foa4fGIH",
+        "version_id": "YRmD0rnR"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "44a52e70d79ad3b0decf8c3a0e5f1bd77cf7b24836df254185dbc2e1815893d5"
+}

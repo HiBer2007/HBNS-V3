@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "lithium-neoforge-0.15.0+mc1.21.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "gvQqBUqZ",
+        "version_id": "xYxpXTIt"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "8b671fa5486487c03d13543560a4909bc57c8933e200f62a7d79947aa48a8e41"
+}

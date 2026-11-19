@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "create_aquatic_ambitions-1.21.1-2.0.2.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "9SyaPzp7",
+        "version_id": "cgOQIktB"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "302b6b0fac480c697c37cefd32d0fa82e7fb8a133a1904841201db820a7ca48c"
+}

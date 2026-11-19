@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "kaleidoscope_end-1.0.12-neoforge+mc1.21.1.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "8GKUHBM6",
+        "version_id": "xBRgz32V"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "53a3da42611cfe4c017763fb650d4f60235c59acac43b7b890a55487ed296f5c"
+}

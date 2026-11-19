@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "create_rockets-0.5.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "nBpDlDTq",
+        "version_id": "v0x03Jys"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "8e7d2d21c7904e4a14a4f283ff545881eb59239eee69a96a8b84ebe9246b438b"
+}

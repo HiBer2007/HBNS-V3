@@ -1,0 +1,18 @@
+{
+  "download_methods": [
+    "qt"
+  ],
+  "original_names": [
+    "cloth-config-15.0.140-neoforge.jar"
+  ],
+  "resolvers": [
+    {
+      "metadata": {
+        "project_id": "9s6osm5g",
+        "version_id": "izKINKFg"
+      },
+      "resolver": "modrinth"
+    }
+  ],
+  "sha256": "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4"
+}
