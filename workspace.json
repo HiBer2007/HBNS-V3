@@ -3,7 +3,7 @@
     {
       "description": "根分支，包含全部共享基础模组",
       "hidden": true,
-      "modloader_version": "21.1.233",
+      "modloader_version": "21.1.266",
       "name": "root",
       "parent": "",
       "sync_policies": {
@@ -42,21 +42,21 @@
     {
       "description": "HBNS使用的服务器版本分支",
       "hidden": true,
-      "modloader_version": "21.1.233",
+      "modloader_version": "21.1.266",
       "name": "server-HBNS",
       "parent": "server-base"
     },
     {
       "description": "客户端版本基础分支",
       "hidden": true,
-      "modloader_version": "21.1.233",
+      "modloader_version": "21.1.266",
       "name": "client-base",
       "parent": "root"
     },
     {
       "description": "客户端版本调试模式分支",
       "hidden": true,
-      "modloader_version": "21.1.233",
+      "modloader_version": "21.1.266",
       "name": "client-debug",
       "parent": "client-base"
     },
@@ -119,7 +119,7 @@
   "workspace": {
     "minecraft": "1.21.1",
     "modloader": "neoforge",
-    "modloader_version": "21.1.233",
+    "modloader_version": "21.1.266",
     "name": "HBNS-AUE-V3"
   },
   "file_manifest": {
