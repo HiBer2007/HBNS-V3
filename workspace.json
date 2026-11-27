@@ -1,0 +1,104 @@
+{
+  "branches": [
+    {
+      "description": "公共基础层：全部共享模组、config、tacz、自定义包",
+      "hidden": true,
+      "modloader_version": "21.1.266",
+      "name": "root",
+      "parent": ""
+    },
+    {
+      "description": "客户端基础分支",
+      "hidden": false,
+      "modloader_version": "21.1.266",
+      "name": "client-base",
+      "parent": "root",
+      "type": "client"
+    },
+    {
+      "description": "HBNS 标准客户端分支",
+      "hidden": false,
+      "modloader_version": "21.1.266",
+      "name": "client-HBNS",
+      "parent": "client-base",
+      "type": "client"
+    },
+    {
+      "description": "Voxy 远距离渲染分支（从 client-base 分出）",
+      "hidden": false,
+      "modloader_version": "21.1.266",
+      "name": "client-Voxy",
+      "parent": "client-base",
+      "type": "client"
+    },
+    {
+      "description": "Distant Horizons 分支（从 client-base 分出，替代 Voxy）",
+      "hidden": false,
+      "modloader_version": "21.1.266",
+      "name": "client-DH",
+      "parent": "client-base",
+      "type": "client"
+    },
+    {
+      "description": "低配置分支（从 client-HBNS 分出）",
+      "hidden": false,
+      "modloader_version": "21.1.266",
+      "name": "client-lowmem",
+      "parent": "client-HBNS",
+      "type": "client"
+    },
+    {
+      "core": "vanilla",
+      "description": "",
+      "hidden": false,
+      "modloader_version": "21.1.266",
+      "name": "server-base",
+      "parent": "root",
+      "type": "server"
+    },
+    {
+      "core": "vanilla",
+      "description": "",
+      "hidden": false,
+      "modloader_version": "21.1.266",
+      "name": "server-HBNS",
+      "parent": "server-base",
+      "type": "server"
+    }
+  ],
+  "custom_mods": {
+    "enabled": false,
+    "path": ""
+  },
+  "description": "HBNS V3 正式工作区（重建）",
+  "file_manifest": {},
+  "git": {
+    "current_branch": "main",
+    "default_branch": "main",
+    "remote": ""
+  },
+  "hidden": false,
+  "pointer_files": {},
+  "sync_policies": {
+    "default_folder_policy": "incremental_add",
+    "files": {},
+    "folders": {
+      "config": "skip",
+      "crash-reports": "skip",
+      "defaultconfigs": "skip",
+      "kubejs/config": "skip",
+      "logs": "skip",
+      "mods": "mirror",
+      "saves": "incremental_overwrite",
+      "screenshots": "skip",
+      "tools": "incremental_overwrite"
+    }
+  },
+  "version": "1.0",
+  "workspace": {
+    "minecraft": "1.21.1",
+    "modloader": "neoforge",
+    "modloader_version": "21.1.266",
+    "name": "HBNS-AUE-V3"
+  }
+}
