@@ -1,5 +1,7 @@
 {
-  "metadata": {},
-  "resolver": "modrinth",
+  "metadata": {
+    "url": "https://cdn.modrinth.com/data/rVUtrHuM/versions/FROwtXRs/spear-backport-neoforge-1.8.0-1.21.1.jar"
+  },
+  "resolver": "direct_url",
   "sha256": "7c4d77eab65359950c33d7d32189359277651fff30f11c5c3d7b638ec5e86df4"
 }

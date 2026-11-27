@@ -1,5 +1,7 @@
 {
-  "metadata": {},
-  "resolver": "modrinth",
+  "metadata": {
+    "url": "https://cdn.modrinth.com/data/JbqjOoQj/versions/mlwItoGT/CarryOnExtend-Architectury-neoforge-1.5.2.jar"
+  },
+  "resolver": "direct_url",
   "sha256": "59faf4c5c925e237cd44965864bf96737e4b9a402bda9efc75ce2c5a8a581d6e"
 }

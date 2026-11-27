@@ -1,5 +1,7 @@
 {
-  "metadata": {},
-  "resolver": "modrinth",
+  "metadata": {
+    "url": "https://cdn.modrinth.com/data/Q5ZXy0QB/versions/JvPRj6e1/maidsoulkitchen-1.21.1-beta-v0.1.4.jar"
+  },
+  "resolver": "direct_url",
   "sha256": "311718144f170cc359f7d8b07fae67813eecd24c2fd1253621e10261bcbd672c"
 }

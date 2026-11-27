@@ -1,5 +1,7 @@
 {
-  "metadata": {},
-  "resolver": "modrinth",
+  "metadata": {
+    "url": "https://cdn.modrinth.com/data/J8yr3TFW/versions/Dzmtc4cF/1.21.1-maid_useful_task-1.4.2.jar"
+  },
+  "resolver": "direct_url",
   "sha256": "e9334d429ff9da4ede5b9a8d2cad0f8472c3821ba20c8ec5e6a8827a52278711"
 }

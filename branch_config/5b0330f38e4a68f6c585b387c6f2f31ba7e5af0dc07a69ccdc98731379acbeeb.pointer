@@ -1,5 +1,7 @@
 {
-  "metadata": {},
-  "resolver": "modrinth",
+  "metadata": {
+    "url": "https://cdn.modrinth.com/data/B1CBVXHX/versions/Zrj8M2XK/ldlib2-neoforge-1.21.1-2.2.46.a-all.jar"
+  },
+  "resolver": "direct_url",
   "sha256": "5b0330f38e4a68f6c585b387c6f2f31ba7e5af0dc07a69ccdc98731379acbeeb"
 }

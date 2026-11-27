@@ -1,5 +1,7 @@
 {
-  "metadata": {},
-  "resolver": "modrinth",
+  "metadata": {
+    "url": "https://cdn.modrinth.com/data/6jk8Pote/versions/D1y11uNH/roadweaver-neoforge-2.3.2-1.21.1.jar"
+  },
+  "resolver": "direct_url",
   "sha256": "e3537faea7b76a13abd2e7b84b80381ad70f24a145bb09f820d69f66daeb75b0"
 }

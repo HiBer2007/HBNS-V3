@@ -1,5 +1,7 @@
 {
-  "metadata": {},
-  "resolver": "modrinth",
+  "metadata": {
+    "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/gMedgtzL/balm-neoforge-1.21.1-21.0.67.jar"
+  },
+  "resolver": "direct_url",
   "sha256": "eaae887582a67a02f55a970ec2d7353f1886a99924ed6144aa4d898266606c34"
 }

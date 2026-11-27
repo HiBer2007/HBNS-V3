@@ -1,5 +1,7 @@
 {
-  "metadata": {},
-  "resolver": "modrinth",
+  "metadata": {
+    "url": "https://cdn.modrinth.com/data/fTuv4NYl/versions/3RX1gJGZ/custom_map_location-neoforge-1.21.1.jar"
+  },
+  "resolver": "direct_url",
   "sha256": "5193b094075ea206816e575a4b6771739ef373d5ba9b98568eb42de67379ff35"
 }

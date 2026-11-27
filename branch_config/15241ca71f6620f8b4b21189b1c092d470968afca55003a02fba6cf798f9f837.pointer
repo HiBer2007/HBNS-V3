@@ -1,5 +1,7 @@
 {
-  "metadata": {},
-  "resolver": "modrinth",
+  "metadata": {
+    "url": "https://cdn.modrinth.com/data/5sIJPqAj/versions/RgLYYPvs/1.21.1-maid_storage_manager-1.15.6.jar"
+  },
+  "resolver": "direct_url",
   "sha256": "15241ca71f6620f8b4b21189b1c092d470968afca55003a02fba6cf798f9f837"
 }

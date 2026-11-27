@@ -1,5 +1,7 @@
 {
-  "metadata": {},
-  "resolver": "modrinth",
+  "metadata": {
+    "url": "https://cdn.modrinth.com/data/5JY3QNIB/versions/yslMBOHV/JustEnoughAdvancements-21.1.1.jar"
+  },
+  "resolver": "direct_url",
   "sha256": "766843322659f8d4c1dbee9a5f2b6ff6bc9e565ab8927acea529091be48d3184"
 }

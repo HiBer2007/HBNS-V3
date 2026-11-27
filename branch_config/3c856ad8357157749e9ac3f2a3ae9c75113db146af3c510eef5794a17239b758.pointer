@@ -1,5 +1,7 @@
 {
-  "metadata": {},
-  "resolver": "modrinth",
+  "metadata": {
+    "url": "https://cdn.modrinth.com/data/YaZEkFmd/versions/2UHpqeLs/VS-Sable-HoseConnectors-0.2.2-1.21.1.jar"
+  },
+  "resolver": "direct_url",
   "sha256": "3c856ad8357157749e9ac3f2a3ae9c75113db146af3c510eef5794a17239b758"
 }

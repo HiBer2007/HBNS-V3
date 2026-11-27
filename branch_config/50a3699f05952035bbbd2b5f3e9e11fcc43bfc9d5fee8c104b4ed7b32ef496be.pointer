@@ -1,5 +1,7 @@
 {
-  "metadata": {},
-  "resolver": "modrinth",
+  "metadata": {
+    "url": "https://cdn.modrinth.com/data/Jrmoreqs/versions/ufIaRDFo/AdvancedBackups-neoforge-1.21-3.7.1.jar"
+  },
+  "resolver": "direct_url",
   "sha256": "50a3699f05952035bbbd2b5f3e9e11fcc43bfc9d5fee8c104b4ed7b32ef496be"
 }

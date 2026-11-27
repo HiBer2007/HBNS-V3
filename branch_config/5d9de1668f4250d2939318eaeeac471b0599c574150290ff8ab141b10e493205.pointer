@@ -1,5 +1,7 @@
 {
-  "metadata": {},
-  "resolver": "modrinth",
+  "metadata": {
+    "url": "https://cdn.modrinth.com/data/CXqSHlx2/versions/lJjz54hX/exposure-space-neoforge-1.4.0.jar"
+  },
+  "resolver": "direct_url",
   "sha256": "5d9de1668f4250d2939318eaeeac471b0599c574150290ff8ab141b10e493205"
 }

@@ -1,5 +1,7 @@
 {
-  "metadata": {},
-  "resolver": "modrinth",
+  "metadata": {
+    "url": "https://cdn.modrinth.com/data/hYykXjDp/versions/jRuOkBAG/fzzy_config-0.7.7%2Bfix1%2B1.21%2Bneoforge.jar"
+  },
+  "resolver": "direct_url",
   "sha256": "414782aba00502349da192c1affcd4cbaf653119ec26605453f1b0690b3f8cc5"
 }

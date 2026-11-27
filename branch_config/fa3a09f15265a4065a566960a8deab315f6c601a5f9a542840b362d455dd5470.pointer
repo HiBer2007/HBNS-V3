@@ -1,5 +1,7 @@
 {
-  "metadata": {},
-  "resolver": "modrinth",
+  "metadata": {
+    "url": "https://cdn.modrinth.com/data/OypNE65K/versions/62q6mB5Q/tacz-neoforge-1.21.1-1.1.8-hotfix-r7.jar"
+  },
+  "resolver": "direct_url",
   "sha256": "fa3a09f15265a4065a566960a8deab315f6c601a5f9a542840b362d455dd5470"
 }

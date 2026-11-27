@@ -1,5 +1,7 @@
 {
-  "metadata": {},
-  "resolver": "modrinth",
+  "metadata": {
+    "url": "https://cdn.modrinth.com/data/4QitwNm0/versions/TcPBp8ux/minopp-1.5.0%2B1.21.1-neoforge.jar"
+  },
+  "resolver": "direct_url",
   "sha256": "c7fc4ab90bd50cca6394ee3b8f11fa27c9a4425670859dc60d5a144281f33035"
 }

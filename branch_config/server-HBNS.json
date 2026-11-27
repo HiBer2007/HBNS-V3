@@ -4,8 +4,17 @@
     "merge_order": "post",
     "path": ""
   },
-  "file_manifest": {},
-  "pointer_files": {},
+  "file_manifest": {
+    "mods/Voxy World Gen V2-neoforge-1.21.1-2.4.2.jar": "a2c3851d1fcbdd2e116d15c79d916b508b8ae0f117bda05a5de90446f1b63265"
+  },
+  "pointer_files": {
+    "a2c3851d1fcbdd2e116d15c79d916b508b8ae0f117bda05a5de90446f1b63265": {
+      "metadata": {
+        "url": "https://cdn.modrinth.com/data/xT0lnNE9/versions/PzNUZlWw/Voxy%20World%20Gen%20V2-neoforge-1.21.1-2.4.2.jar"
+      },
+      "resolver": "direct_url"
+    }
+  },
   "serverconfig_sync": {
     "enabled": false,
     "rules": [],

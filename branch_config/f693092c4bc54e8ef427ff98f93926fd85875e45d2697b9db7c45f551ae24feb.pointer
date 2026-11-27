@@ -1,5 +1,7 @@
 {
-  "metadata": {},
-  "resolver": "modrinth",
+  "metadata": {
+    "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/pMjjsBGF/Quark-4.1-488.jar"
+  },
+  "resolver": "direct_url",
   "sha256": "f693092c4bc54e8ef427ff98f93926fd85875e45d2697b9db7c45f551ae24feb"
 }

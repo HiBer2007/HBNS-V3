@@ -1,5 +1,7 @@
 {
-  "metadata": {},
-  "resolver": "modrinth",
+  "metadata": {
+    "url": "https://cdn.modrinth.com/data/fe45fUKW/versions/NYni1L96/lucis-1.21.1-1.0.0.jar"
+  },
+  "resolver": "direct_url",
   "sha256": "bbaf499da81edb9ae4c7fb661a9f370feac6130feca332ccaf98c470698eaf47"
 }

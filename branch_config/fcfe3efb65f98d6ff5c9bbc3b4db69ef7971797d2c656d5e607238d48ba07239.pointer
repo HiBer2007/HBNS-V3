@@ -1,5 +1,7 @@
 {
-  "metadata": {},
-  "resolver": "modrinth",
+  "metadata": {
+    "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/v8QrwctR/CreativeCore_NEOFORGE_v2.13.54_mc1.21.1.jar"
+  },
+  "resolver": "direct_url",
   "sha256": "fcfe3efb65f98d6ff5c9bbc3b4db69ef7971797d2c656d5e607238d48ba07239"
 }

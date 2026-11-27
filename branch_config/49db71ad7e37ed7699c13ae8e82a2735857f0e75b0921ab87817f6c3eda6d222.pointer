@@ -1,5 +1,7 @@
 {
-  "metadata": {},
-  "resolver": "modrinth",
+  "metadata": {
+    "url": "https://cdn.modrinth.com/data/YdVBZMNR/versions/osOVp4EJ/justplayerheads-1.21.1-4.5.jar"
+  },
+  "resolver": "direct_url",
   "sha256": "49db71ad7e37ed7699c13ae8e82a2735857f0e75b0921ab87817f6c3eda6d222"
 }

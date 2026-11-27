@@ -4,8 +4,17 @@
     "merge_order": "post",
     "path": ""
   },
-  "file_manifest": {},
-  "pointer_files": {},
+  "file_manifest": {
+    "mods/neovoxy-0.6.1.jar": "4e0b50fb49a8b6f5c75fa3b7dd2421830554be59780770ea9047262ff9df8411"
+  },
+  "pointer_files": {
+    "4e0b50fb49a8b6f5c75fa3b7dd2421830554be59780770ea9047262ff9df8411": {
+      "metadata": {
+        "url": "https://github.com/HiBer2007/hbns-built-mods/releases/download/v0.1-neovoxy/neovoxy-0.6.1.jar"
+      },
+      "resolver": "direct_url"
+    }
+  },
   "serverconfig_sync": {
     "enabled": false,
     "rules": [],

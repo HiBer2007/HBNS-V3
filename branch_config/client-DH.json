@@ -4,8 +4,17 @@
     "merge_order": "post",
     "path": ""
   },
-  "file_manifest": {},
-  "pointer_files": {},
+  "file_manifest": {
+    "mods/DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar": "864e70def5b0d54d619b940b66bb2784e91d3f3fc253064fdc1b3fc5786cbfab"
+  },
+  "pointer_files": {
+    "864e70def5b0d54d619b940b66bb2784e91d3f3fc253064fdc1b3fc5786cbfab": {
+      "metadata": {
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/9w34y8ai/DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar"
+      },
+      "resolver": "direct_url"
+    }
+  },
   "serverconfig_sync": {
     "enabled": false,
     "rules": [],

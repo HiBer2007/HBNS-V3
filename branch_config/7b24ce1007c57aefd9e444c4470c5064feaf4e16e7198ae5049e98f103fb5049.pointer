@@ -1,5 +1,7 @@
 {
-  "metadata": {},
-  "resolver": "modrinth",
+  "metadata": {
+    "url": "https://cdn.modrinth.com/data/kVNtrRcL/versions/Qu15bii2/MaidUseHandCrank_1.6.2-neoforge_21.1.219-1.21.1.jar"
+  },
+  "resolver": "direct_url",
   "sha256": "7b24ce1007c57aefd9e444c4470c5064feaf4e16e7198ae5049e98f103fb5049"
 }

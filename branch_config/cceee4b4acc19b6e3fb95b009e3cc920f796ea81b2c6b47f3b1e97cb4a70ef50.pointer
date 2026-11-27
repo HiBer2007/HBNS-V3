@@ -1,5 +1,7 @@
 {
-  "metadata": {},
-  "resolver": "modrinth",
+  "metadata": {
+    "url": "https://cdn.modrinth.com/data/PWcQ3kcp/versions/WvDm67vr/exposure_catalog-neoforge-1.1.2.jar"
+  },
+  "resolver": "direct_url",
   "sha256": "cceee4b4acc19b6e3fb95b009e3cc920f796ea81b2c6b47f3b1e97cb4a70ef50"
 }

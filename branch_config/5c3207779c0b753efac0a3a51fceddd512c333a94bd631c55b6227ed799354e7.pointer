@@ -1,5 +1,7 @@
 {
-  "metadata": {},
-  "resolver": "modrinth",
+  "metadata": {
+    "url": "https://cdn.modrinth.com/data/gIGuk9m4/versions/1UnVcp9j/sable-weighted_addons-1.0.21.jar"
+  },
+  "resolver": "direct_url",
   "sha256": "5c3207779c0b753efac0a3a51fceddd512c333a94bd631c55b6227ed799354e7"
 }

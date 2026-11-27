@@ -1,5 +1,7 @@
 {
-  "metadata": {},
-  "resolver": "modrinth",
+  "metadata": {
+    "url": "https://cdn.modrinth.com/data/aH1sOU2k/versions/jxjUAAAq/kubejsable-1.1.0.jar"
+  },
+  "resolver": "direct_url",
   "sha256": "9e309924374f0ea818cb99faabd47c52bed1640f3948106c88b42635a32fd127"
 }

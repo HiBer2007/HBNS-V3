@@ -1,5 +1,7 @@
 {
-  "metadata": {},
-  "resolver": "modrinth",
+  "metadata": {
+    "url": "https://cdn.modrinth.com/data/g2FGQs4R/versions/A0Rx4Pvw/u_team_core-neoforge-1.21.1-5.6.2.384.jar"
+  },
+  "resolver": "direct_url",
   "sha256": "801e8644f13165cb465aa1ac29128aada3890af6195d504faabab5ccf3e83426"
 }

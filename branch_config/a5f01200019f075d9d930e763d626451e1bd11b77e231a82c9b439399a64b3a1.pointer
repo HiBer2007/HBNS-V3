@@ -1,5 +1,7 @@
 {
-  "metadata": {},
-  "resolver": "modrinth",
+  "metadata": {
+    "url": "https://cdn.modrinth.com/data/vnZAETyV/versions/x5QpcCMr/universalkeyboard-1.3.5.jar"
+  },
+  "resolver": "direct_url",
   "sha256": "a5f01200019f075d9d930e763d626451e1bd11b77e231a82c9b439399a64b3a1"
 }

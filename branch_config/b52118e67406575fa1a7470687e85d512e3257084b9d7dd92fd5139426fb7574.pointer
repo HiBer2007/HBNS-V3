@@ -1,5 +1,7 @@
 {
-  "metadata": {},
-  "resolver": "modrinth",
+  "metadata": {
+    "url": "https://cdn.modrinth.com/data/qbbO7Jns/versions/kOwbrV11/emi_loot-0.7.10%2B1.21%2Bneoforge.jar"
+  },
+  "resolver": "direct_url",
   "sha256": "b52118e67406575fa1a7470687e85d512e3257084b9d7dd92fd5139426fb7574"
 }

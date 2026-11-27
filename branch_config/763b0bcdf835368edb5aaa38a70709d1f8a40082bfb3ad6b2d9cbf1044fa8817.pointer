@@ -1,5 +1,7 @@
 {
-  "metadata": {},
-  "resolver": "modrinth",
+  "metadata": {
+    "url": "https://cdn.modrinth.com/data/hMlaZH8f/versions/acJAaBrG/sophisticatedstorage-1.21.1-1.6.19.2234.jar"
+  },
+  "resolver": "direct_url",
   "sha256": "763b0bcdf835368edb5aaa38a70709d1f8a40082bfb3ad6b2d9cbf1044fa8817"
 }

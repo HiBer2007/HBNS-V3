@@ -1,5 +1,7 @@
 {
-  "metadata": {},
-  "resolver": "modrinth",
+  "metadata": {
+    "url": "https://cdn.modrinth.com/data/kidLKymU/versions/8U0dIfSM/YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar"
+  },
+  "resolver": "direct_url",
   "sha256": "a9cab2fc01538368862365691f7d215309801aed0b390351681b6b60a1db7b58"
 }

@@ -1,5 +1,7 @@
 {
-  "metadata": {},
-  "resolver": "modrinth",
+  "metadata": {
+    "url": "https://cdn.modrinth.com/data/LOpKHB2A/versions/sE6fMBGR/waystones-neoforge-1.21.1-21.1.47.jar"
+  },
+  "resolver": "direct_url",
   "sha256": "1b6afa9fd9ec3e2153001353e6a16e84c8d6c94a17257acc61ff3286c5518353"
 }

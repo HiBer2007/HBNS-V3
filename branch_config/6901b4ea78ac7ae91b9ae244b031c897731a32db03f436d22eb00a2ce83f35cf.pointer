@@ -1,5 +1,7 @@
 {
-  "metadata": {},
-  "resolver": "modrinth",
+  "metadata": {
+    "url": "https://cdn.modrinth.com/data/ayPU0OHc/versions/cn0D1llp/structure_layout_optimizer-neoforge-1.0.13.jar"
+  },
+  "resolver": "direct_url",
   "sha256": "6901b4ea78ac7ae91b9ae244b031c897731a32db03f436d22eb00a2ce83f35cf"
 }

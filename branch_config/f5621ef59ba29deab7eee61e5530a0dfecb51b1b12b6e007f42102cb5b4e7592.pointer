@@ -1,5 +1,7 @@
 {
-  "metadata": {},
-  "resolver": "modrinth",
+  "metadata": {
+    "url": "https://cdn.modrinth.com/data/MpXVgCr8/versions/BTbNZ761/chesspvp-1.21.1-neoforge-1.0.3.jar"
+  },
+  "resolver": "direct_url",
   "sha256": "f5621ef59ba29deab7eee61e5530a0dfecb51b1b12b6e007f42102cb5b4e7592"
 }

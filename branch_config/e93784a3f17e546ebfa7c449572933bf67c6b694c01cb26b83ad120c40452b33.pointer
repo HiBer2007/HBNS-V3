@@ -1,5 +1,7 @@
 {
-  "metadata": {},
-  "resolver": "modrinth",
+  "metadata": {
+    "url": "https://cdn.modrinth.com/data/v17FatAc/versions/g8w0b2ly/kaleidoscopecookery-1.6.0-neoforge%2Bmc1.21.1.jar"
+  },
+  "resolver": "direct_url",
   "sha256": "e93784a3f17e546ebfa7c449572933bf67c6b694c01cb26b83ad120c40452b33"
 }

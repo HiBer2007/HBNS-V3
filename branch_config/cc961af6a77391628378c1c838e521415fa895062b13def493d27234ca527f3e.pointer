@@ -1,5 +1,7 @@
 {
-  "metadata": {},
-  "resolver": "modrinth",
+  "metadata": {
+    "url": "https://cdn.modrinth.com/data/bN3xUWdo/versions/CohX6yP1/lodestone-1.21.1-1.8.2.jar"
+  },
+  "resolver": "direct_url",
   "sha256": "cc961af6a77391628378c1c838e521415fa895062b13def493d27234ca527f3e"
 }

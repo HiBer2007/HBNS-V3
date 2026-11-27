@@ -1,5 +1,7 @@
 {
-  "metadata": {},
-  "resolver": "modrinth",
+  "metadata": {
+    "url": "https://cdn.modrinth.com/data/jgOzA8I4/versions/maK19KHR/tacz_aero_compat-1.8.0.jar"
+  },
+  "resolver": "direct_url",
   "sha256": "eeaf541cea48a983939e80ccf0953262abcd1e71c839d1914184f768b0901f17"
 }

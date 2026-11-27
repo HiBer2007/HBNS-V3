@@ -1,5 +1,7 @@
 {
-  "metadata": {},
-  "resolver": "modrinth",
+  "metadata": {
+    "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/hhok4NTk/sophisticatedcore-1.21.1-1.5.38.2484.jar"
+  },
+  "resolver": "direct_url",
   "sha256": "5e37619dd10627ec1cef38136c2dfb82e7611745494ddb70f47171e9b35910f9"
 }

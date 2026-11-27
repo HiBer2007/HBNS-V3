@@ -1,5 +1,7 @@
 {
-  "metadata": {},
-  "resolver": "modrinth",
+  "metadata": {
+    "url": "https://cdn.modrinth.com/data/YmiOIpxu/versions/LV6XqhLS/audiosynth-2.0.0.jar"
+  },
+  "resolver": "direct_url",
   "sha256": "07c429ee710533db0e0e9339e77c2245c57dd1d23efb06f0aa0ef183cf466b5d"
 }

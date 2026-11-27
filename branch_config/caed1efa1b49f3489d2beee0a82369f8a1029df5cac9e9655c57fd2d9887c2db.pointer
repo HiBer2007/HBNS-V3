@@ -1,5 +1,7 @@
 {
-  "metadata": {},
-  "resolver": "modrinth",
+  "metadata": {
+    "url": "https://cdn.modrinth.com/data/Jc6WJafg/versions/MTzfIx4I/net_music_list-4.3.jar"
+  },
+  "resolver": "direct_url",
   "sha256": "caed1efa1b49f3489d2beee0a82369f8a1029df5cac9e9655c57fd2d9887c2db"
 }

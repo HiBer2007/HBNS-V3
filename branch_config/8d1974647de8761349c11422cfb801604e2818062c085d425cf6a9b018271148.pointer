@@ -1,5 +1,7 @@
 {
-  "metadata": {},
-  "resolver": "modrinth",
+  "metadata": {
+    "url": "https://cdn.modrinth.com/data/Vtz8RJd5/versions/KX6XqKKx/unlimited-spawners-21.1-1.0.0.jar"
+  },
+  "resolver": "direct_url",
   "sha256": "8d1974647de8761349c11422cfb801604e2818062c085d425cf6a9b018271148"
 }

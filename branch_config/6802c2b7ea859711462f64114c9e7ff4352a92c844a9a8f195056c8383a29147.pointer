@@ -1,5 +1,7 @@
 {
-  "metadata": {},
-  "resolver": "modrinth",
+  "metadata": {
+    "url": "https://cdn.modrinth.com/data/t1VgucWo/versions/lVVhQRyh/chunkloaders-1.2.9-neoforge-mc1.21.jar"
+  },
+  "resolver": "direct_url",
   "sha256": "6802c2b7ea859711462f64114c9e7ff4352a92c844a9a8f195056c8383a29147"
 }

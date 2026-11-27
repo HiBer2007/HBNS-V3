@@ -1,5 +1,7 @@
 {
-  "metadata": {},
-  "resolver": "modrinth",
+  "metadata": {
+    "url": "https://cdn.modrinth.com/data/e0M1UDsY/versions/MvfIbC5P/collective-1.21.1-8.87.jar"
+  },
+  "resolver": "direct_url",
   "sha256": "81503885e59ea463e858271e3d224505519bff475d59a43e73964d645c0577fc"
 }

@@ -1,5 +1,7 @@
 {
-  "metadata": {},
-  "resolver": "modrinth",
+  "metadata": {
+    "url": "https://cdn.modrinth.com/data/K0LQpdmm/versions/49BQQZfR/jearchaeology-1.21.0-1.1.5.jar"
+  },
+  "resolver": "direct_url",
   "sha256": "a931fe7d7418c94d37eb8685c71a45507c2307b2e335680d9d12834db344a31f"
 }

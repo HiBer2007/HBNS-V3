@@ -1,5 +1,7 @@
 {
-  "metadata": {},
-  "resolver": "modrinth",
+  "metadata": {
+    "url": "https://cdn.modrinth.com/data/fx5N8Hgd/versions/KBxw9pI3/tacz-pack-upgrader-2.1.3.jar"
+  },
+  "resolver": "direct_url",
   "sha256": "58d326d6c4924f4a1e8e16341b0973c9d361276adb4f2ca522d87c0b0a0f5473"
 }
