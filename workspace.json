@@ -16,14 +16,6 @@
       "type": "client"
     },
     {
-      "description": "HBNS 标准客户端分支",
-      "hidden": false,
-      "modloader_version": "21.1.266",
-      "name": "client-HBNS",
-      "parent": "client-base",
-      "type": "client"
-    },
-    {
       "description": "Voxy 远距离渲染分支（从 client-base 分出）",
       "hidden": false,
       "modloader_version": "21.1.266",
@@ -44,7 +36,7 @@
       "hidden": false,
       "modloader_version": "21.1.266",
       "name": "client-lowmem",
-      "parent": "client-HBNS",
+      "parent": "client-base",
       "type": "client"
     },
     {
