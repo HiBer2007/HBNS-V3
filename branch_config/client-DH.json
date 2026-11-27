@@ -146,6 +146,7 @@
     "mods/universalkeyboard-1.3.5.jar": "a5f01200019f075d9d930e763d626451e1bd11b77e231a82c9b439399a64b3a1",
     "mods/unlimited-spawners-21.1-1.0.0.jar": "8d1974647de8761349c11422cfb801604e2818062c085d425cf6a9b018271148",
     "mods/watermedia-3.0.1.jar": "da9e4ccde074a5846ad0344c9df6ff4026e42b98d056139f0fe428f0d8250b11",
+    "mods/watermedia_binaries-3.0.1.jar": "a4dc90cd1a274e8978dba8ab6d8e33ebc5d2746e66f9c300bc943ff06148789f",
     "mods/waystones-neoforge-1.21.1-21.1.47.jar": "1b6afa9fd9ec3e2153001353e6a16e84c8d6c94a17257acc61ff3286c5518353",
     "mods/xaerominimap-neoforge-1.21.1-26.6.0.jar": "d3398221b2262abfe2d394b588122e5b3fd2e4d8c4bf66a5fd357352fcf51b2e",
     "mods/xaeroworldmap-neoforge-1.21.1-1.47.0.jar": "6a42b6f01bd96b496e5fcc07d4541bad1a699d9ec8ad58ad40d5dcfe23a7d4c7",
@@ -696,6 +697,12 @@
     "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde": {
       "metadata": {
         "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/yohfFbgD/curios-neoforge-9.5.1%2B1.21.1.jar"
+      },
+      "resolver": "direct_url"
+    },
+    "a4dc90cd1a274e8978dba8ab6d8e33ebc5d2746e66f9c300bc943ff06148789f": {
+      "metadata": {
+        "url": "https://cdn.modrinth.com/data/4997XcoK/versions/HTKcN2sw/watermedia_binaries-3.0.1.jar"
       },
       "resolver": "direct_url"
     },
