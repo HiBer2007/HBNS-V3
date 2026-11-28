@@ -67,15 +67,15 @@
   "git": {
     "current_branch": "main",
     "default_branch": "main",
-    "remote": "git@github.com:HiBer2007/HBNS-V3.git",
+    "remote": "https://git.hibernet.top/hiber2007/HBNS-V3.git",
     "remotes": [
+      {
+        "type": "https",
+        "url": "https://git.hibernet.top/hiber2007/HBNS-V3.git"
+      },
       {
         "type": "ssh",
         "url": "git@github.com:HiBer2007/HBNS-V3.git"
-      },
-      {
-        "type": "http",
-        "url": "http://github.com/HiBer2007/HBNS-V3.git"
       },
       {
         "type": "https",
