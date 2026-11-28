@@ -64,6 +64,7 @@
     "mods/exposure_catalog-neoforge-1.1.2.jar": "cceee4b4acc19b6e3fb95b009e3cc920f796ea81b2c6b47f3b1e97cb4a70ef50",
     "mods/exposure_expanded-neoforge-1.0.1.jar": "e56f4e93fe48e97cd37c0e63c82622b8fe75c1f272ac033ec2f3e3cbb8ba391d",
     "mods/exposure_polaroid-neoforge-1.21.1-1.1.6.jar": "a39485de154de47422671b763677814bfe09227214775c78a0052e5b22b30e61",
+    "mods/fabricexporter-1.0.11.jar": "2fbd15cabc3c616de718908748cd5f08cc5893f57366a87ebb433788fba7d307",
     "mods/ferritecore-7.0.3-neoforge.jar": "d87ea28262715ebff45b8a82d493e6b468e7a4521bc021df5d88302196d030a8",
     "mods/forgified-fabric-api-0.116.15+2.3.6+1.21.1.jar": "bcbb5d8479032690d53debfcf61c0477080ff6d1d4dae9a9a85122b47377646a",
     "mods/fzzy_config-0.7.7+fix1+1.21+neoforge.jar": "414782aba00502349da192c1affcd4cbaf653119ec26605453f1b0690b3f8cc5",
@@ -218,6 +219,12 @@
     "2c3191ad447092cc7873a06e92f16bd3e2ff9dc31e93268b8893d06dd89e1fd6": {
       "metadata": {
         "url": "https://cdn.modrinth.com/data/XNlO7sBv/versions/GQ9iNWkI/YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar"
+      },
+      "resolver": "direct_url"
+    },
+    "2fbd15cabc3c616de718908748cd5f08cc5893f57366a87ebb433788fba7d307": {
+      "metadata": {
+        "url": "https://cdn.modrinth.com/data/dbVXHSlv/versions/YcE9H1C5/fabricexporter-1.0.11.jar"
       },
       "resolver": "direct_url"
     },
